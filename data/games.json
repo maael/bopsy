@@ -1,0 +1,1926 @@
+[
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "PlayerUnknown's Battlegrounds",
+    "genre": "Battle royale",
+    "releaseDate": {
+      "year": 2017,
+      "month": 11,
+      "day": 20
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/playerunknown's-battlegrounds.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Minecraft",
+    "genre": "Sandbox, survival",
+    "releaseDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/minecraft.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Diablo III",
+    "genre": "Action role-playing",
+    "releaseDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 15
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/diablo-iii.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "World of Warcraft",
+    "genre": "MMORPG",
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 23
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/world-of-warcraft.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Terraria",
+    "genre": "Action-adventure",
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 16
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/terraria.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Witcher 3: Wild Hunt",
+    "genre": "Action role-playing",
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 19
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-witcher-3%3A-wild-hunt.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Sims",
+    "genre": "Life simulation",
+    "releaseDate": {
+      "year": 2000,
+      "month": 1,
+      "day": 4
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-sims.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "StarCraft",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 1998,
+      "month": 2,
+      "day": 31
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/starcraft.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "RollerCoaster Tycoon 3",
+    "genre": "Construction and management simulation",
+    "releaseDate": {
+      "year": 2004,
+      "month": 9,
+      "day": 26
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/rollercoaster-tycoon-3.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Half-Life 2",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 16
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/half-life-2.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Half-Life",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 1998,
+      "month": 10,
+      "day": 19
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/half-life.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Civilization V",
+    "genre": "Turn-based strategy, 4X",
+    "releaseDate": {
+      "year": 2010,
+      "month": 8,
+      "day": 1
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/civilization-v.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Fall Guys",
+    "genre": "Battle royale",
+    "releaseDate": {
+      "year": 2020,
+      "month": 7,
+      "day": 4
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/fall-guys.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Euro Truck Simulator 2",
+    "genre": "Vehicle simulation",
+    "releaseDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 19
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/euro-truck-simulator-2.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Guild Wars",
+    "genre": "MMORPG",
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 28
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/guild-wars.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Myst",
+    "genre": "Adventure, puzzle",
+    "releaseDate": {
+      "year": 1993,
+      "month": 8,
+      "day": 24
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/myst.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Sims 2",
+    "genre": "Life simulation",
+    "releaseDate": {
+      "year": 2004,
+      "month": 8,
+      "day": 14
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-sims-2.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "StarCraft II: Wings of Liberty",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2010,
+      "month": 6,
+      "day": 27
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/starcraft-ii%3A-wings-of-liberty.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "ARMA 3",
+    "genre": "Tactical shooter",
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 12
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/arma-3.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Forest",
+    "genre": "Survival",
+    "releaseDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 30
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-forest.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Rust",
+    "genre": "Survival",
+    "releaseDate": {
+      "year": 2018,
+      "month": 1,
+      "day": 8
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/rust.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "SimCity 3000",
+    "genre": "City-building",
+    "releaseDate": {
+      "year": 1999,
+      "month": 0,
+      "day": 31
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/simcity-3000.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Guild Wars 2",
+    "genre": "MMORPG",
+    "releaseDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 28
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/guild-wars-2.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Cities: Skylines",
+    "genre": "City-building",
+    "releaseDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 10
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/cities%3A-skylines.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "DayZ",
+    "genre": "Survival",
+    "releaseDate": {
+      "year": 2013,
+      "month": 11,
+      "day": 16
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/dayz.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Populous",
+    "genre": "God game",
+    "releaseDate": {
+      "year": 1989,
+      "month": 5,
+      "day": 5
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/populous.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Warhammer 40,000: Dawn of War (including expansions)",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2004,
+      "month": 8,
+      "day": 20
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/warhammer-40%2C000%3A-dawn-of-war-(including-expansions).mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Where in the World Is Carmen Sandiego?",
+    "genre": "Educational",
+    "releaseDate": {
+      "year": 1985,
+      "month": 5,
+      "day": 1
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/where-in-the-world-is-carmen-sandiego%3F.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Doom 3",
+    "genre": "First-person shooter, survival horror",
+    "releaseDate": {
+      "year": 2004,
+      "month": 7,
+      "day": 3
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/doom-3.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Theme Park",
+    "genre": "Construction and management simulation",
+    "releaseDate": {
+      "year": 1994,
+      "month": 0,
+      "day": 1
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/theme-park.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Age of Empires",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 1997,
+      "month": 9,
+      "day": 15
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/age-of-empires.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Civilization IV",
+    "genre": "Turn-based strategy, 4X",
+    "releaseDate": {
+      "year": 2005,
+      "month": 9,
+      "day": 25
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/civilization-iv.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Command & Conquer",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 1995,
+      "month": 7,
+      "day": 31
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/command-%26-conquer.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Command & Conquer: Red Alert",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 1996,
+      "month": 9,
+      "day": 31
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/command-%26-conquer%3A-red-alert.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Crysis",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2007,
+      "month": 10,
+      "day": 13
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/crysis.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "EverQuest",
+    "genre": "MMORPG",
+    "releaseDate": {
+      "year": 1999,
+      "month": 2,
+      "day": 16
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/everquest.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Life Is Strange",
+    "genre": "Graphic adventure",
+    "releaseDate": {
+      "year": 2015,
+      "month": 0,
+      "day": 30
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/life-is-strange.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Warcraft III: Reign of Chaos",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2002,
+      "month": 6,
+      "day": 3
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/warcraft-iii%3A-reign-of-chaos.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Stickfight: The Game",
+    "genre": "Fighting",
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 28
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/stickfight%3A-the-game.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Counter-Strike: Condition Zero",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2004,
+      "month": 2,
+      "day": 23
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/counter-strike%3A-condition-zero.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Doom",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 1993,
+      "month": 11,
+      "day": 10
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/doom.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Magicka",
+    "genre": "Action-adventure",
+    "releaseDate": {
+      "year": 2011,
+      "month": 0,
+      "day": 25
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/magicka.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Age of Empires III",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2005,
+      "month": 9,
+      "day": 18
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/age-of-empires-iii.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Anno 1503",
+    "genre": "City-building",
+    "releaseDate": {
+      "year": 2003,
+      "month": 2,
+      "day": 23
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/anno-1503.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Anno 1602",
+    "genre": "City-building",
+    "releaseDate": {
+      "year": 1998,
+      "month": 8,
+      "day": 24
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/anno-1602.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Cossacks II: Napoleonic Wars",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 15
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/cossacks-ii%3A-napoleonic-wars.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Factorio",
+    "genre": "Construction and management simulation",
+    "releaseDate": {
+      "year": 2016,
+      "month": 1,
+      "day": 1
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/factorio.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Far Cry",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2004,
+      "month": 2,
+      "day": 23
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/far-cry.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "7 Days to Die",
+    "genre": "Survival horror",
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 28
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/7-days-to-die.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Battlefield 1942",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2002,
+      "month": 8,
+      "day": 10
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/battlefield-1942.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Witcher 2: Assassins of Kings",
+    "genre": "Action role-playing",
+    "releaseDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 17
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-witcher-2%3A-assassins-of-kings.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Counter-Strike: Source",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2004,
+      "month": 10,
+      "day": 1
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/counter-strike%3A-source.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Witcher",
+    "genre": "Action role-playing",
+    "releaseDate": {
+      "year": 2007,
+      "month": 9,
+      "day": 26
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-witcher.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Baldur's Gate II: Shadows of Amn",
+    "genre": "Computer role-playing game",
+    "releaseDate": {
+      "year": 2000,
+      "month": 8,
+      "day": 21
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/baldur's-gate-ii%3A-shadows-of-amn.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Baldur's Gate",
+    "genre": "Role-playing game",
+    "releaseDate": {
+      "year": 1998,
+      "month": 11,
+      "day": 21
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/baldur's-gate.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Binding of Isaac",
+    "genre": "Action-adventure, roguelike",
+    "releaseDate": {
+      "year": 2011,
+      "month": 8,
+      "day": 28
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-binding-of-isaac.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Black & White",
+    "genre": "God game",
+    "releaseDate": {
+      "year": 2001,
+      "month": 2,
+      "day": 25
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/black-%26-white.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Civilization III",
+    "genre": "Turn-based strategy, 4X",
+    "releaseDate": {
+      "year": 2001,
+      "month": 9,
+      "day": 30
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/civilization-iii.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Grand Theft Auto V",
+    "genre": "Action-adventure",
+    "releaseDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 14
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/grand-theft-auto-v.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Mafia: The City of Lost Heaven",
+    "genre": "Third-person shooter",
+    "releaseDate": {
+      "year": 2002,
+      "month": 7,
+      "day": 28
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/mafia%3A-the-city-of-lost-heaven.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Neverwinter Nights",
+    "genre": "Role-playing game",
+    "releaseDate": {
+      "year": 2002,
+      "month": 5,
+      "day": 18
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/neverwinter-nights.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Planet Coaster",
+    "genre": "Construction and management simulation",
+    "releaseDate": {
+      "year": 2016,
+      "month": 10,
+      "day": 1
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/planet-coaster.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "POD",
+    "genre": "Racing game",
+    "releaseDate": {
+      "year": 1997,
+      "month": 1,
+      "day": 28
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/pod.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Last Ninja",
+    "genre": "Action-adventure",
+    "releaseDate": {
+      "year": 1987,
+      "month": 0,
+      "day": 1
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-last-ninja.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "SimCity",
+    "genre": "City-building",
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 5
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/simcity.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "SimCity 4",
+    "genre": "City-building",
+    "releaseDate": {
+      "year": 2003,
+      "month": 0,
+      "day": 14
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/simcity-4.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Space Engineers",
+    "genre": "Simulation",
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 13
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/space-engineers.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Spore",
+    "genre": "God game",
+    "releaseDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 4
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/spore.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Stronghold: Crusader",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2002,
+      "month": 6,
+      "day": 31
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/stronghold%3A-crusader.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Warcraft II: Tides of Darkness",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 1995,
+      "month": 11,
+      "day": 9
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/warcraft-ii%3A-tides-of-darkness.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Stellaris",
+    "genre": "RTS, 4X, Grand Strategy",
+    "releaseDate": {
+      "year": 2016,
+      "month": 4,
+      "day": 9
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/stellaris.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Satisfactory",
+    "genre": "Construction and management simulation",
+    "releaseDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 19
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/satisfactory.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Kingdom Come: Deliverance",
+    "genre": "Action role-playing game",
+    "releaseDate": {
+      "year": 2018,
+      "month": 1,
+      "day": 13
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/kingdom-come%3A-deliverance.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Machinarium",
+    "genre": "Graphic adventure, puzzle",
+    "releaseDate": {
+      "year": 2009,
+      "month": 9,
+      "day": 16
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/machinarium.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Quake",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 1996,
+      "month": 5,
+      "day": 22
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/quake.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Sacred",
+    "genre": "Action role-playing",
+    "releaseDate": {
+      "year": 2004,
+      "month": 2,
+      "day": 23
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/sacred.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Dungeon Siege",
+    "genre": "Role-playing game",
+    "releaseDate": {
+      "year": 2002,
+      "month": 3,
+      "day": 5
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/dungeon-siege.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "American Truck Simulator",
+    "genre": "Vehicle simulation",
+    "releaseDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 19
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/american-truck-simulator.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Grand Prix 2",
+    "genre": "Sim racing",
+    "releaseDate": {
+      "year": 1996,
+      "month": 7,
+      "day": 30
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/grand-prix-2.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Command & Conquer: Tiberian Sun",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 1999,
+      "month": 7,
+      "day": 27
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/command-%26-conquer%3A-tiberian-sun.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Crysis Warhead",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 16
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/crysis-warhead.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Duke Nukem 3D",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 1996,
+      "month": 0,
+      "day": 29
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/duke-nukem-3d.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Star Wars Galaxies",
+    "genre": "MMORPG",
+    "releaseDate": {
+      "year": 2003,
+      "month": 5,
+      "day": 26
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/star-wars-galaxies.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Stronghold",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2001,
+      "month": 9,
+      "day": 19
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/stronghold.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Commandos: Behind Enemy Lines",
+    "genre": "Real-time tactics",
+    "releaseDate": {
+      "year": 1998,
+      "month": 5,
+      "day": 24
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/commandos%3A-behind-enemy-lines.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Total Annihilation",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 1997,
+      "month": 8,
+      "day": 30
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/total-annihilation.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Battlefield Vietnam",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2004,
+      "month": 2,
+      "day": 14
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/battlefield-vietnam.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Harry Potter and the Philosopher's Stone",
+    "genre": "Action-adventure",
+    "releaseDate": {
+      "year": 2001,
+      "month": 10,
+      "day": 15
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/harry-potter-and-the-philosopher's-stone.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Legend of Sword and Fairy 5",
+    "genre": "Role-playing game",
+    "releaseDate": {
+      "year": 2011,
+      "month": 6,
+      "day": 7
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-legend-of-sword-and-fairy-5.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Psychonauts",
+    "genre": "Platform",
+    "releaseDate": {
+      "year": 2005,
+      "month": 3,
+      "day": 19
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/psychonauts.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Prison Architect",
+    "genre": "Construction and management simulation",
+    "releaseDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 25
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/prison-architect.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Warhammer Online: Age of Reckoning",
+    "genre": "MMORPG",
+    "releaseDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 18
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/warhammer-online%3A-age-of-reckoning.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Rome: Total War",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2004,
+      "month": 8,
+      "day": 22
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/rome%3A-total-war.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "StarCraft II: Heart of the Swarm",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 12
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/starcraft-ii%3A-heart-of-the-swarm.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Crusader Kings II",
+    "genre": "Grand strategy",
+    "releaseDate": {
+      "year": 2012,
+      "month": 1,
+      "day": 14
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/crusader-kings-ii.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Killing Floor",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 14
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/killing-floor.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Zoo Tycoon",
+    "genre": "Business simulation",
+    "releaseDate": {
+      "year": 2001,
+      "month": 9,
+      "day": 17
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/zoo-tycoon.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Age of Mythology",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2002,
+      "month": 9,
+      "day": 30
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/age-of-mythology.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Ark: Survival Evolved",
+    "genre": "Action-adventure, Survival",
+    "releaseDate": {
+      "year": 2015,
+      "month": 5,
+      "day": 2
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/ark%3A-survival-evolved.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Europa Universalis IV",
+    "genre": "Grand strategy",
+    "releaseDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 13
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/europa-universalis-iv.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "BioShock",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2007,
+      "month": 7,
+      "day": 21
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/bioshock.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Blade Runner",
+    "genre": "Point-and-click",
+    "releaseDate": {
+      "year": 1997,
+      "month": 10,
+      "day": 21
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/blade-runner.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Civilization II",
+    "genre": "Turn-based strategy, 4X",
+    "releaseDate": {
+      "year": 1996,
+      "month": 1,
+      "day": 29
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/civilization-ii.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Command & Conquer: Red Alert 2",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2000,
+      "month": 9,
+      "day": 23
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/command-%26-conquer%3A-red-alert-2.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Command & Conquer 3: Tiberium Wars",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2007,
+      "month": 2,
+      "day": 28
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/command-%26-conquer-3%3A-tiberium-wars.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Cuphead",
+    "genre": "Run and gun",
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 29
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/cuphead.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Deer Hunter",
+    "genre": "Sports",
+    "releaseDate": {
+      "year": 1997,
+      "month": 10,
+      "day": 13
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/deer-hunter.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Divinity: Original Sin II",
+    "genre": "Role-playing game",
+    "releaseDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 14
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/divinity%3A-original-sin-ii.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Dungeon Lords",
+    "genre": "Role-playing game",
+    "releaseDate": {
+      "year": 2005,
+      "month": 4,
+      "day": 5
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/dungeon-lords.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Empire Earth",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2001,
+      "month": 10,
+      "day": 12
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/empire-earth.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Frogger",
+    "genre": "Action",
+    "releaseDate": {
+      "year": 1997,
+      "month": 10,
+      "day": 3
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/frogger.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Full Throttle",
+    "genre": "Graphic adventure",
+    "releaseDate": {
+      "year": 1995,
+      "month": 3,
+      "day": 30
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/full-throttle.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Glory of the Roman Empire",
+    "genre": "City-building game",
+    "releaseDate": {
+      "year": 2006,
+      "month": 5,
+      "day": 26
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/glory-of-the-roman-empire.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Hearts of Iron IV",
+    "genre": "Real-time strategy, grand strategy wargame",
+    "releaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 6
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/hearts-of-iron-iv.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Hidden & Dangerous",
+    "genre": "Action",
+    "releaseDate": {
+      "year": 1999,
+      "month": 6,
+      "day": 29
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/hidden-%26-dangerous.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Hidden & Dangerous 2",
+    "genre": "Action",
+    "releaseDate": {
+      "year": 2003,
+      "month": 9,
+      "day": 21
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/hidden-%26-dangerous-2.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Hollow Knight",
+    "genre": "Metroidvania",
+    "releaseDate": {
+      "year": 2017,
+      "month": 1,
+      "day": 24
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/hollow-knight.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Hotel Giant",
+    "genre": "Business simulation",
+    "releaseDate": {
+      "year": 2002,
+      "month": 4,
+      "day": 17
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/hotel-giant.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Hydlide",
+    "genre": "Action role-playing",
+    "releaseDate": {
+      "year": 1984,
+      "month": 11,
+      "day": 13
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/hydlide.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Imperivm: Great Battles of Rome",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2005,
+      "month": 4,
+      "day": 10
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/imperivm%3A-great-battles-of-rome.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Just Survive[d]",
+    "genre": "Survival",
+    "releaseDate": {
+      "year": 2015,
+      "month": 0,
+      "day": 15
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/just-survive%5Bd%5D.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Legend of Sword and Fairy 3",
+    "genre": "Role-playing game",
+    "releaseDate": {
+      "year": 2003,
+      "month": 6,
+      "day": 31
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-legend-of-sword-and-fairy-3.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Microsoft Flight Simulator X",
+    "genre": "Amateur flight simulation",
+    "releaseDate": {
+      "year": 2006,
+      "month": 9,
+      "day": 17
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/microsoft-flight-simulator-x.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Mordhau",
+    "genre": "Action",
+    "releaseDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 29
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/mordhau.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Operation Flashpoint: Cold War Crisis",
+    "genre": "Tactical shooter",
+    "releaseDate": {
+      "year": 2001,
+      "month": 5,
+      "day": 22
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/operation-flashpoint%3A-cold-war-crisis.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Patrician III: Rise of the Hanse",
+    "genre": "Business simulation",
+    "releaseDate": {
+      "year": 2003,
+      "month": 9,
+      "day": 24
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/patrician-iii%3A-rise-of-the-hanse.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Phantasmagoria",
+    "genre": "Interactive movie",
+    "releaseDate": {
+      "year": 1995,
+      "month": 6,
+      "day": 31
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/phantasmagoria.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Quake II",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 1997,
+      "month": 11,
+      "day": 9
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/quake-ii.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Railroad Tycoon II",
+    "genre": "Construction and management simulation",
+    "releaseDate": {
+      "year": 1998,
+      "month": 10,
+      "day": 4
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/railroad-tycoon-ii.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Return to Castle Wolfenstein",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2001,
+      "month": 10,
+      "day": 19
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/return-to-castle-wolfenstein.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Return to Zork",
+    "genre": "Adventure",
+    "releaseDate": {
+      "year": 1993,
+      "month": 7,
+      "day": 20
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/return-to-zork.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Runaway: A Road Adventure",
+    "genre": "Adventure",
+    "releaseDate": {
+      "year": 2001,
+      "month": 6,
+      "day": 6
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/runaway%3A-a-road-adventure.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "StarCraft II: Legacy of the Void",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2015,
+      "month": 10,
+      "day": 10
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/starcraft-ii%3A-legacy-of-the-void.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Star Wars: Rebel Assault",
+    "genre": "Rail shooter",
+    "releaseDate": {
+      "year": 1993,
+      "month": 10,
+      "day": 1
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/star-wars%3A-rebel-assault.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Stardew Valley",
+    "genre": "Simulation, role-playing game",
+    "releaseDate": {
+      "year": 2016,
+      "month": 1,
+      "day": 26
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/stardew-valley.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "The Stanley Parable",
+    "genre": "Interactive fiction",
+    "releaseDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 17
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-stanley-parable.mp3"
+  },
+  {
+    "platform": "PC",
+    "company": "Various",
+    "name": "Supreme Commander",
+    "genre": "Real-time strategy",
+    "releaseDate": {
+      "year": 2007,
+      "month": 1,
+      "day": 16
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/supreme-commander.mp3"
+  },
+  {
+    "platform": "Xbox 360",
+    "company": "Microsoft",
+    "name": "Grand Theft Auto V",
+    "genre": "Action-adventure",
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 17
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/grand-theft-auto-v.mp3"
+  },
+  {
+    "platform": "Xbox 360",
+    "company": "Microsoft",
+    "name": "BioShock",
+    "genre": "First-person shooter",
+    "releaseDate": {
+      "year": 2007,
+      "month": 7,
+      "day": 21
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/bioshock.mp3"
+  },
+  {
+    "platform": "Nintento Entertainment System",
+    "company": "Nintendo",
+    "name": "Hydlide",
+    "genre": "Unknown",
+    "releaseDate": {
+      "year": 1986,
+      "month": 2,
+      "day": 18
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/hydlide.mp3"
+  },
+  {
+    "platform": "Super Nintendo Entertainment System",
+    "company": "Nintendo",
+    "name": "SimCity",
+    "genre": "Unknown",
+    "releaseDate": {
+      "year": 1991,
+      "month": 3,
+      "day": 26
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/simcity.mp3"
+  },
+  {
+    "platform": "Nintendo Switch",
+    "company": "Nintendo",
+    "name": "Minecraft",
+    "genre": "Sandboxsurvival",
+    "releaseDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 11
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/minecraft.mp3"
+  },
+  {
+    "platform": "PlayStation 1",
+    "company": "Sony",
+    "name": "Harry Potter and the Philosopher's Stone",
+    "genre": "Unknown",
+    "releaseDate": {
+      "year": 2001,
+      "month": 10,
+      "day": 15
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/harry-potter-and-the-philosopher's-stone.mp3"
+  },
+  {
+    "platform": "PlayStation 1",
+    "company": "Sony",
+    "name": "Frogger",
+    "genre": "Unknown",
+    "releaseDate": {
+      "year": 1997,
+      "month": 8,
+      "day": 30
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/frogger.mp3"
+  },
+  {
+    "platform": "PlayStation 2",
+    "company": "Sony",
+    "name": "The Sims",
+    "genre": "Life simulation",
+    "releaseDate": {
+      "year": 2003,
+      "month": 0,
+      "day": 14
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-sims.mp3"
+  },
+  {
+    "platform": "PlayStation 3",
+    "company": "Sony",
+    "name": "Grand Theft Auto V",
+    "genre": "Action-adventure",
+    "releaseDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 17
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/grand-theft-auto-v.mp3"
+  },
+  {
+    "platform": "PlayStation 4",
+    "company": "Sony",
+    "name": "Grand Theft Auto V",
+    "genre": "Action-adventure",
+    "releaseDate": {
+      "year": 2014,
+      "month": 10,
+      "day": 18
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/grand-theft-auto-v.mp3"
+  },
+  {
+    "platform": "PlayStation 4",
+    "company": "Sony",
+    "name": "The Witcher 3: Wild Hunt",
+    "genre": "Action role-playing",
+    "releaseDate": {
+      "year": 2015,
+      "month": 4,
+      "day": 19
+    },
+    "type": "game",
+    "audioLocation": "/audio/games/processed/the-witcher-3%3A-wild-hunt.mp3"
+  }
+]

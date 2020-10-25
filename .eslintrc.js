@@ -76,7 +76,7 @@ module.exports = {
     /**
      * Requires Promise-like values to be handled appropriately
      */
-    '@typescript-eslint/no-floating-promises': 'error',
+    '@typescript-eslint/no-floating-promises': [0],
     /**
      * Disallow iterating over an array with a for-in loop
      */
@@ -195,7 +195,7 @@ module.exports = {
     'import/no-extraneous-dependencies': [
       'error',
       {
-        devDependencies: ['**/__tests__/**/*', '**/__story__/**/*', '**/fixtures/**/*'],
+        devDependencies: ['**/scripts/**/*', '**/__tests__/**/*', '**/__story__/**/*', '**/fixtures/**/*'],
         optionalDependencies: false,
       },
     ],

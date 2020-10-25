@@ -3,6 +3,17 @@
   --breakpoint-tablet: 768px;
   --breakpont-desktop: 992px;
   --desktop-only-display: none;
+  --color-bg: #073b4c;
+  --color-primary: #ef476f;
+  --color-secondary: #ffd166;
+  --color-tertiary: #06d6a0;
+  --color-bg-light: #118ab2;
+  --color-text: #b6c2d9;
+}
+
+@font-face {
+  font-family: 'PressStart';
+  src: url('/fonts/prstartk.ttf') format('truetype'); /* Safari, Android, iOS */
 }
 
 @media screen and (min-width: 576px) {
@@ -21,11 +32,15 @@
   }
 }
 
+#__next {
+  min-height: 100vh;
+}
+
 body {
-  background-color: var(--color-background);
+  background-color: var(--color-bg);
   color: var(--color-text);
   transition: background-color 0.3s ease, color 0.3s ease;
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-family: 'PressStart', 'Open Sans', Arial, Helvetica, sans-serif;
 }
 
 /* Sane Reset Below */
@@ -61,12 +76,18 @@ dd {
   margin: 0;
 }
 
+html,
+body {
+  min-height: 100%;
+}
+
 /* Set core body defaults */
 body {
-  min-height: 100vh;
   scroll-behavior: smooth;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  display: flex;
+  flex-direction: column;
 }
 
 /* Remove list styles on ul, ol elements with a class attribute */

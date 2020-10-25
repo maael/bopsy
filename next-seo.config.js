@@ -1,6 +1,6 @@
-const title = 'Matt Elphick | Software Engineer'
-const description = 'Software engineer mainly messing around with JavaScript.'
-const url = 'https://mael.tech/'
+const title = 'Bopsy | Recognise the tunes'
+const description = 'Recognise the tunes you hear.'
+const url = 'https://bopsy.mael.tech/'
 
 module.exports = {
   title,
