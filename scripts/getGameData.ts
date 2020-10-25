@@ -43,7 +43,7 @@ const colMaps: Record<keyof typeof lists, { name: number; releaseDate: number; g
   bestSellingPS2: { name: 0, releaseDate: 2, genre: 3 },
   bestSellingPS3: { name: 0, releaseDate: 2, genre: 3 },
   bestSellingPS4: { name: 0, releaseDate: 2, genre: 3 },
-  highestGrossingArcade: { name: 0, releaseDate: 1, genre: undefined, listId: 'Highest-grossing' },
+  highestGrossingArcade: { name: 0, releaseDate: 1, genre: undefined, listId: '#Highest-grossing' },
 }
 
 const keyMeta: Record<keyof typeof lists, { platform: string; company: string }> = {

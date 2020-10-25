@@ -1,0 +1,402 @@
+[
+  {
+    "name": "The Lion King",
+    "year": "1994"
+  },
+  {
+    "name": "Aladdin",
+    "year": "1992"
+  },
+  {
+    "name": "Toy Story 2",
+    "year": "1999"
+  },
+  {
+    "name": "Tarzan",
+    "year": "1999"
+  },
+  {
+    "name": "Beauty and the Beast",
+    "year": "1991"
+  },
+  {
+    "name": "Toy Story",
+    "year": "1995"
+  },
+  {
+    "name": "A Bug's Life",
+    "year": "1998"
+  },
+  {
+    "name": "Pocahontas",
+    "year": "1995"
+  },
+  {
+    "name": "The Hunchback of Notre Dame",
+    "year": "1996"
+  },
+  {
+    "name": "Mulan",
+    "year": "1998"
+  },
+  {
+    "name": "Hercules",
+    "year": "1997"
+  },
+  {
+    "name": "Space Jam",
+    "year": "1996"
+  },
+  {
+    "name": "The Prince of Egypt",
+    "year": "1998"
+  },
+  {
+    "name": "Antz",
+    "year": "1998"
+  },
+  {
+    "name": "Pokémon: The First Movie",
+    "year": "1998"
+  },
+  {
+    "name": "Princess Mononoke",
+    "year": "1997"
+  },
+  {
+    "name": "The Rugrats Movie",
+    "year": "1998"
+  },
+  {
+    "name": "Anastasia",
+    "year": "1997"
+  },
+  {
+    "name": "Pokémon: The Movie 2000",
+    "year": "1999"
+  },
+  {
+    "name": "Fantasia 2000",
+    "year": "1999"
+  },
+  {
+    "name": "South Park: Bigger, Longer & Uncut",
+    "year": "1999"
+  },
+  {
+    "name": "The Nightmare Before Christmas",
+    "year": "1993"
+  },
+  {
+    "name": "Beavis and Butt-head Do America",
+    "year": "1996"
+  },
+  {
+    "name": "The Rescuers Down Under",
+    "year": "1990"
+  },
+  {
+    "name": "An American Tail: Fievel Goes West",
+    "year": "1991"
+  },
+  {
+    "name": "Quest for Camelot",
+    "year": "1998"
+  },
+  {
+    "name": "A Goofy Movie",
+    "year": "1995"
+  },
+  {
+    "name": "Porco Rosso",
+    "year": "1992"
+  },
+  {
+    "name": "FernGully: The Last Rainforest",
+    "year": "1992"
+  },
+  {
+    "name": "The Iron Giant",
+    "year": "1999"
+  },
+  {
+    "name": "Dragon Ball Z 8: The Legendary Super Saiyan",
+    "year": "1993"
+  },
+  {
+    "name": "James and the Giant Peach",
+    "year": "1996"
+  },
+  {
+    "name": "Pom Poko",
+    "year": "1994"
+  },
+  {
+    "name": "Whisper of the Heart",
+    "year": "1995"
+  },
+  {
+    "name": "Dragon Ball Z 12: Fusion Reborn",
+    "year": "1995"
+  },
+  {
+    "name": "Dragon Ball Z 10: Broly – Second Coming",
+    "year": "1994"
+  },
+  {
+    "name": "Doraemon: Nobita's Great Adventure in the South Seas",
+    "year": "1998"
+  },
+  {
+    "name": "Doraemon: Nobita and the Spiral City",
+    "year": "1997"
+  },
+  {
+    "name": "Doraemon: Nobita Drifts in the Universe",
+    "year": "1999"
+  },
+  {
+    "name": "My Neighbors the Yamadas",
+    "year": "1999"
+  },
+  {
+    "name": "Jetsons: The Movie",
+    "year": "1990"
+  },
+  {
+    "name": "Digimon Adventure",
+    "year": "1999"
+  },
+  {
+    "name": "Doug's 1st Movie",
+    "year": "1999"
+  },
+  {
+    "name": "Dragon Ball Z 6: Return of Cooler",
+    "year": "1992"
+  },
+  {
+    "name": "Doraemon: Nobita and the Animal Planet",
+    "year": "1990"
+  },
+  {
+    "name": "Dragon Ball Z: Super Android 13",
+    "year": "1992"
+  },
+  {
+    "name": "Only Yesterday",
+    "year": "1991"
+  },
+  {
+    "name": "Dragon Ball Z 9: Bojack Unbound",
+    "year": "1999"
+  },
+  {
+    "name": "DuckTales the Movie: Treasure of the Lost Lamp",
+    "year": "1990"
+  },
+  {
+    "name": "Doraemon: Nobita and the Galaxy Super-express",
+    "year": "1996"
+  },
+  {
+    "name": "Finding Nemo",
+    "year": "2003"
+  },
+  {
+    "name": "Shrek 2",
+    "year": "2004"
+  },
+  {
+    "name": "Ice Age: Dawn of the Dinosaurs",
+    "year": "2009"
+  },
+  {
+    "name": "Shrek the Third",
+    "year": "2007"
+  },
+  {
+    "name": "Up",
+    "year": "2009"
+  },
+  {
+    "name": "Ice Age: The Meltdown",
+    "year": "2006"
+  },
+  {
+    "name": "The Incredibles",
+    "year": "2004"
+  },
+  {
+    "name": "Kung Fu Panda",
+    "year": "2008"
+  },
+  {
+    "name": "Ratatouille",
+    "year": "2007"
+  },
+  {
+    "name": "Madagascar: Escape 2 Africa",
+    "year": "2008"
+  },
+  {
+    "name": "Monsters, Inc.",
+    "year": "2001"
+  },
+  {
+    "name": "WALL-E",
+    "year": "2008"
+  },
+  {
+    "name": "Madagascar",
+    "year": "2005"
+  },
+  {
+    "name": "The Simpsons Movie",
+    "year": "2007"
+  },
+  {
+    "name": "Shrek",
+    "year": "2001"
+  },
+  {
+    "name": "Cars",
+    "year": "2006"
+  },
+  {
+    "name": "Happy Feet",
+    "year": "2006"
+  },
+  {
+    "name": "Ice Age",
+    "year": "2002"
+  },
+  {
+    "name": "Monsters vs. Aliens",
+    "year": "2009"
+  },
+  {
+    "name": "Shark Tale",
+    "year": "2004"
+  },
+  {
+    "name": "Spirited Away",
+    "year": "2001"
+  },
+  {
+    "name": "Dinosaur",
+    "year": "2000"
+  },
+  {
+    "name": "Over the Hedge",
+    "year": "2006"
+  },
+  {
+    "name": "A Christmas Carol",
+    "year": "2009"
+  },
+  {
+    "name": "Chicken Little",
+    "year": "2005"
+  },
+  {
+    "name": "Bolt",
+    "year": "2008"
+  },
+  {
+    "name": "The Polar Express",
+    "year": "2004"
+  },
+  {
+    "name": "Dr. Seuss' Horton Hears a Who!",
+    "year": "2008"
+  },
+  {
+    "name": "Bee Movie",
+    "year": "2007"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "year": "2002"
+  },
+  {
+    "name": "The Princess and the Frog",
+    "year": "2009"
+  },
+  {
+    "name": "Robots",
+    "year": "2005"
+  },
+  {
+    "name": "Brother Bear",
+    "year": "2003"
+  },
+  {
+    "name": "Cloudy with a Chance of Meatballs",
+    "year": "2009"
+  },
+  {
+    "name": "Howl's Moving Castle",
+    "year": "2004"
+  },
+  {
+    "name": "Chicken Run",
+    "year": "2000"
+  },
+  {
+    "name": "Ponyo",
+    "year": "2008"
+  },
+  {
+    "name": "Open Season",
+    "year": "2006"
+  },
+  {
+    "name": "Beowulf",
+    "year": "2007"
+  },
+  {
+    "name": "Wallace and Gromit: The Curse of the Were-Rabbit",
+    "year": "2005"
+  },
+  {
+    "name": "Atlantis: The Lost Empire",
+    "year": "2001"
+  },
+  {
+    "name": "Flushed Away",
+    "year": "2006"
+  },
+  {
+    "name": "Meet the Robinsons",
+    "year": "2007"
+  },
+  {
+    "name": "The Emperor's New Groove",
+    "year": "2000"
+  },
+  {
+    "name": "Surf's Up",
+    "year": "2007"
+  },
+  {
+    "name": "Monster House",
+    "year": "2006"
+  },
+  {
+    "name": "The SpongeBob SquarePants Movie",
+    "year": "2004"
+  },
+  {
+    "name": "The Jungle Book 2",
+    "year": "2003"
+  },
+  {
+    "name": "Coraline",
+    "year": "2009"
+  },
+  {
+    "name": "Spirit: Stallion of the Cimarron",
+    "year": "2002"
+  }
+]

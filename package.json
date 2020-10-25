@@ -10,9 +10,12 @@
     "start": "next start",
     "prettier": "prettier --ignore-path .gitignore --write .",
     "lint": "eslint --no-error-on-unmatched-pattern -c .eslintrc.js --ext .tsx,.ts pages components util scripts",
-    "script:data": "ts-node --project scripts/tsconfig.json scripts/getGameData.ts",
-    "script:audio": "ts-node --project scripts/tsconfig.json scripts/getGameAudio.ts",
-    "script:tidy-data": "ts-node --project scripts/tsconfig.json scripts/tidyGameData.ts"
+    "script:game-data": "ts-node --project scripts/tsconfig.json scripts/getGameData.ts",
+    "script:game-audio": "ts-node --project scripts/tsconfig.json scripts/getGameAudio.ts",
+    "script:tidy-game-data": "ts-node --project scripts/tsconfig.json scripts/tidyGameData.ts",
+    "script:movie-data": "ts-node --project scripts/tsconfig.json scripts/getMovieData.ts",
+    "script:movie-audio": "ts-node --project scripts/tsconfig.json scripts/getMovieAudio.ts",
+    "script:tidy-movie-data": "ts-node --project scripts/tsconfig.json scripts/tidyMovieData.ts"
   },
   "husky": {
     "hooks": {
