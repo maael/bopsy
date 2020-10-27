@@ -11,7 +11,6 @@ const wait = async (ms: number) => new Promise((resolve) => setTimeout(resolve, 
 process.on('unhandledRejection', (error) => {
   console.error('unhandledRejection', error ? (error as any).message : 'An error')
 })
-
 ;(async () => {
   await Promise.all(raw.map(throat(10, async (v) => getAudio(`${v.name} - ${v.years.start}`))))
 })().catch((err) => console.error(err))
