@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import styles from './styles/index.module.css'
+import styles from '../components/screens/Game.module.css'
 
 export default function Index() {
   return (
