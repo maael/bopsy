@@ -1,0 +1,16 @@
+export const tvGenresList = [
+  'comedy',
+  'drama',
+  'family',
+  'adventure',
+  'romance',
+  'action',
+  'sci-fi',
+  'horror',
+  'crime',
+  'mystery',
+  'thriller',
+  'documentary',
+  'musical',
+  'animation',
+]

@@ -1,30 +1,14 @@
 import { promises as fs } from 'fs'
 import got from 'got'
 import cheerio from 'cheerio'
+import { tvGenresList } from './util/data'
 
 const getGenreUrl = (genre: string, start: number) =>
   `https://www.imdb.com/search/title/?explore=title_type,genres&title_type=tvSeries&genres=${genre}&start=${start}`
 
-const genresList = [
-  'comedy',
-  'drama',
-  'family',
-  'adventure',
-  'romance',
-  'action',
-  'sci-fi',
-  'horror',
-  'crime',
-  'mystery',
-  'thriller',
-  'documentary',
-  'musical',
-  'animation',
-]
-
 ;(async () => {
   console.info('[start:tv]')
-  const twoPageGenres = genresList
+  const twoPageGenres = tvGenresList
     .map((g) => [
       { genre: g, start: 0 },
       { genre: g, start: 51 },
