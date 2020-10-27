@@ -118,3 +118,4 @@ dist
 # audio
 public/audio/games/raw
 public/audio/movies/raw
+public/audio/tv/raw

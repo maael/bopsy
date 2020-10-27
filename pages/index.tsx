@@ -20,6 +20,11 @@ export default function Index() {
           <a style={{ color: 'var(--color-tertiary)' }}>To Movies</a>
         </Link>
       </p>
+      <p style={{ textAlign: 'center' }}>
+        <Link href="/tv">
+          <a style={{ color: 'var(--color-tertiary)' }}>To TV</a>
+        </Link>
+      </p>
     </div>
   )
 }

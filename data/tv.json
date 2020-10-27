@@ -1,0 +1,5213 @@
+[
+  {
+    "name": "The Boys",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/the-boys---2019.mp3"
+  },
+  {
+    "name": "Schitt's Creek",
+    "years": {
+      "start": 2015,
+      "end": 2020
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/schitt's-creek---2015.mp3"
+  },
+  {
+    "name": "Emily in Paris",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/emily-in-paris---2020.mp3"
+  },
+  {
+    "name": "Cobra Kai",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Action", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/cobra-kai---2018.mp3"
+  },
+  {
+    "name": "The Office",
+    "years": {
+      "start": 2005,
+      "end": 2013
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/the-office---2005.mp3"
+  },
+  {
+    "name": "Friends",
+    "years": {
+      "start": 1994,
+      "end": 2004
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/friends---1994.mp3"
+  },
+  {
+    "name": "New Girl",
+    "years": {
+      "start": 2011,
+      "end": 2018
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/new-girl---2011.mp3"
+  },
+  {
+    "name": "The Big Bang Theory",
+    "years": {
+      "start": 2007,
+      "end": 2019
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/the-big-bang-theory---2007.mp3"
+  },
+  {
+    "name": "Shameless",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/shameless---2011.mp3"
+  },
+  {
+    "name": "Community",
+    "years": {
+      "start": 2009,
+      "end": 2015
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/community---2009.mp3"
+  },
+  {
+    "name": "Modern Family",
+    "years": {
+      "start": 2009,
+      "end": 2020
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/modern-family---2009.mp3"
+  },
+  {
+    "name": "Gilmore Girls",
+    "years": {
+      "start": 2000,
+      "end": 2007
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/gilmore-girls---2000.mp3"
+  },
+  {
+    "name": "This Is Us",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/this-is-us---2016.mp3"
+  },
+  {
+    "name": "The Flight Attendant",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-flight-attendant---2020.mp3"
+  },
+  {
+    "name": "Ted Lasso",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Sport"],
+    "audioLocation": "/audio/tv/processed/ted-lasso---2020.mp3"
+  },
+  {
+    "name": "Brooklyn Nine-Nine",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/brooklyn-nine-nine---2013.mp3"
+  },
+  {
+    "name": "The Good Place",
+    "years": {
+      "start": 2016,
+      "end": 2020
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-good-place---2016.mp3"
+  },
+  {
+    "name": "Suits",
+    "years": {
+      "start": 2011,
+      "end": 2019
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/suits---2011.mp3"
+  },
+  {
+    "name": "Bones",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/bones---2005.mp3"
+  },
+  {
+    "name": "The Goldbergs",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/the-goldbergs---2013.mp3"
+  },
+  {
+    "name": "The Simpsons",
+    "years": {
+      "start": 1989,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy"],
+    "audioLocation": "/audio/tv/processed/the-simpsons---1989.mp3"
+  },
+  {
+    "name": "How I Met Your Mother",
+    "years": {
+      "start": 2005,
+      "end": 2014
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/how-i-met-your-mother---2005.mp3"
+  },
+  {
+    "name": "It's Always Sunny in Philadelphia",
+    "years": {
+      "start": 2005,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/it's-always-sunny-in-philadelphia---2005.mp3"
+  },
+  {
+    "name": "Two and a Half Men",
+    "years": {
+      "start": 2003,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/two-and-a-half-men---2003.mp3"
+  },
+  {
+    "name": "South Park",
+    "years": {
+      "start": 1997,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy"],
+    "audioLocation": "/audio/tv/processed/south-park---1997.mp3"
+  },
+  {
+    "name": "The Unicorn",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/the-unicorn---2019.mp3"
+  },
+  {
+    "name": "Archer",
+    "years": {
+      "start": 2009,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Comedy"],
+    "audioLocation": "/audio/tv/processed/archer---2009.mp3"
+  },
+  {
+    "name": "Sex Education",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/sex-education---2019.mp3"
+  },
+  {
+    "name": "Julie and the Phantoms",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/julie-and-the-phantoms---2020.mp3"
+  },
+  {
+    "name": "Parks and Recreation",
+    "years": {
+      "start": 2009,
+      "end": 2020
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/parks-and-recreation---2009.mp3"
+  },
+  {
+    "name": "Family Guy",
+    "years": {
+      "start": 1999,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy"],
+    "audioLocation": "/audio/tv/processed/family-guy---1999.mp3"
+  },
+  {
+    "name": "Seinfeld",
+    "years": {
+      "start": 1989,
+      "end": 1998
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/seinfeld---1989.mp3"
+  },
+  {
+    "name": "Rick and Morty",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/rick-and-morty---2013.mp3"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "years": {
+      "start": 2013,
+      "end": 2019
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/orange-is-the-new-black---2013.mp3"
+  },
+  {
+    "name": "Misfits",
+    "years": {
+      "start": 2009,
+      "end": 2013
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/misfits---2009.mp3"
+  },
+  {
+    "name": "What We Do in the Shadows",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Comedy", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/what-we-do-in-the-shadows---2019.mp3"
+  },
+  {
+    "name": "Glee",
+    "years": {
+      "start": 2009,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Drama", "Music"],
+    "audioLocation": "/audio/tv/processed/glee---2009.mp3"
+  },
+  {
+    "name": "The Conners",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/the-conners---2018.mp3"
+  },
+  {
+    "name": "Psych",
+    "years": {
+      "start": 2006,
+      "end": 2014
+    },
+    "genres": ["Comedy", "Crime", "Mystery"],
+    "audioLocation": "/audio/tv/processed/psych---2006.mp3"
+  },
+  {
+    "name": "Bob's Burgers",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy"],
+    "audioLocation": "/audio/tv/processed/bob's-burgers---2011.mp3"
+  },
+  {
+    "name": "The Trouble with Maggie Cole",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-trouble-with-maggie-cole---2020.mp3"
+  },
+  {
+    "name": "Doom Patrol",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/doom-patrol---2019.mp3"
+  },
+  {
+    "name": "Home Improvement",
+    "years": {
+      "start": 1991,
+      "end": 1999
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/home-improvement---1991.mp3"
+  },
+  {
+    "name": "Scrubs",
+    "years": {
+      "start": 2001,
+      "end": 2010
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/scrubs---2001.mp3"
+  },
+  {
+    "name": "Arrested Development",
+    "years": {
+      "start": 2003,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/arrested-development---2003.mp3"
+  },
+  {
+    "name": "Home Movie: The Princess Bride",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Short", "Comedy", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/home-movie%3A-the-princess-bride---2020.mp3"
+  },
+  {
+    "name": "Death in Paradise",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/death-in-paradise---2011.mp3"
+  },
+  {
+    "name": "BoJack Horseman",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Animation", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/bojack-horseman---2014.mp3"
+  },
+  {
+    "name": "Saturday Night Live",
+    "years": {
+      "start": 1975,
+      "end": null
+    },
+    "genres": ["Comedy", "Music"],
+    "audioLocation": "/audio/tv/processed/saturday-night-live---1975.mp3"
+  },
+  {
+    "name": "Hart of Dixie",
+    "years": {
+      "start": 2011,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/hart-of-dixie---2011.mp3"
+  },
+  {
+    "name": "Social Distance",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/social-distance---2020.mp3"
+  },
+  {
+    "name": "Love Life",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/love-life---2020.mp3"
+  },
+  {
+    "name": "Fleabag",
+    "years": {
+      "start": 2016,
+      "end": 2019
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/fleabag---2016.mp3"
+  },
+  {
+    "name": "Malcolm in the Middle",
+    "years": {
+      "start": 2000,
+      "end": 2006
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/malcolm-in-the-middle---2000.mp3"
+  },
+  {
+    "name": "Man with a Plan",
+    "years": {
+      "start": 2016,
+      "end": 2020
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/man-with-a-plan---2016.mp3"
+  },
+  {
+    "name": "Curb Your Enthusiasm",
+    "years": {
+      "start": 2000,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/curb-your-enthusiasm---2000.mp3"
+  },
+  {
+    "name": "One on One",
+    "years": {
+      "start": 2001,
+      "end": 2006
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/one-on-one---2001.mp3"
+  },
+  {
+    "name": "Jane the Virgin",
+    "years": {
+      "start": 2014,
+      "end": 2019
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/jane-the-virgin---2014.mp3"
+  },
+  {
+    "name": "PEN15",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/pen15---2019.mp3"
+  },
+  {
+    "name": "Monk",
+    "years": {
+      "start": 2002,
+      "end": 2009
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/monk---2002.mp3"
+  },
+  {
+    "name": "Mom",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/mom---2013.mp3"
+  },
+  {
+    "name": "The Legend of Korra",
+    "years": {
+      "start": 2012,
+      "end": 2014
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/the-legend-of-korra---2012.mp3"
+  },
+  {
+    "name": "Last Man Standing",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/last-man-standing---2011.mp3"
+  },
+  {
+    "name": "Good Girls",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/good-girls---2018.mp3"
+  },
+  {
+    "name": "One Day at a Time",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/one-day-at-a-time---2017.mp3"
+  },
+  {
+    "name": "L.A.'s Finest",
+    "years": {
+      "start": 2019,
+      "end": 2020
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/l.a.'s-finest---2019.mp3"
+  },
+  {
+    "name": "Frasier",
+    "years": {
+      "start": 1993,
+      "end": 2004
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/frasier---1993.mp3"
+  },
+  {
+    "name": "Castle",
+    "years": {
+      "start": 2009,
+      "end": 2016
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/castle---2009.mp3"
+  },
+  {
+    "name": "Desperate Housewives",
+    "years": {
+      "start": 2004,
+      "end": 2012
+    },
+    "genres": ["Comedy", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/desperate-housewives---2004.mp3"
+  },
+  {
+    "name": "Letterkenny",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/letterkenny---2016.mp3"
+  },
+  {
+    "name": "Sex and the City",
+    "years": {
+      "start": 1998,
+      "end": 2004
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/sex-and-the-city---1998.mp3"
+  },
+  {
+    "name": "M*A*S*H",
+    "years": {
+      "start": 1972,
+      "end": 1983
+    },
+    "genres": ["Comedy", "Drama", "War"],
+    "audioLocation": "/audio/tv/processed/m*a*s*h---1972.mp3"
+  },
+  {
+    "name": "Adult Material",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/adult-material---2020.mp3"
+  },
+  {
+    "name": "Younger",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/younger---2015.mp3"
+  },
+  {
+    "name": "Cheers",
+    "years": {
+      "start": 1982,
+      "end": 1993
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/cheers---1982.mp3"
+  },
+  {
+    "name": "The Orville",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-orville---2017.mp3"
+  },
+  {
+    "name": "My Hero Academia",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/my-hero-academia---2016.mp3"
+  },
+  {
+    "name": "The Golden Girls",
+    "years": {
+      "start": 1985,
+      "end": 1992
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-golden-girls---1985.mp3"
+  },
+  {
+    "name": "The Addams Family",
+    "years": {
+      "start": 1964,
+      "end": 1966
+    },
+    "genres": ["Comedy", "Family", "Horror"],
+    "audioLocation": "/audio/tv/processed/the-addams-family---1964.mp3"
+  },
+  {
+    "name": "The Ranch",
+    "years": {
+      "start": 2016,
+      "end": 2020
+    },
+    "genres": ["Comedy", "Drama", "Western"],
+    "audioLocation": "/audio/tv/processed/the-ranch---2016.mp3"
+  },
+  {
+    "name": "Dead to Me",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/dead-to-me---2019.mp3"
+  },
+  {
+    "name": "Married with Children",
+    "years": {
+      "start": 1987,
+      "end": 1997
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/married-with-children---1987.mp3"
+  },
+  {
+    "name": "Superstore",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/superstore---2015.mp3"
+  },
+  {
+    "name": "New Tricks",
+    "years": {
+      "start": 2003,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/new-tricks---2003.mp3"
+  },
+  {
+    "name": "Happy Days",
+    "years": {
+      "start": 1974,
+      "end": 1984
+    },
+    "genres": ["Comedy", "Family", "Music"],
+    "audioLocation": "/audio/tv/processed/happy-days---1974.mp3"
+  },
+  {
+    "name": "White Collar",
+    "years": {
+      "start": 2009,
+      "end": 2014
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/white-collar---2009.mp3"
+  },
+  {
+    "name": "Young Sheldon",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/young-sheldon---2017.mp3"
+  },
+  {
+    "name": "Grace and Frankie",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/grace-and-frankie---2015.mp3"
+  },
+  {
+    "name": "The Great",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Biography", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-great---2020.mp3"
+  },
+  {
+    "name": "iZombie",
+    "years": {
+      "start": 2015,
+      "end": 2019
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/izombie---2015.mp3"
+  },
+  {
+    "name": "The IT Crowd",
+    "years": {
+      "start": 2006,
+      "end": 2013
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/the-it-crowd---2006.mp3"
+  },
+  {
+    "name": "Good Witch",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/good-witch---2015.mp3"
+  },
+  {
+    "name": "The Fresh Prince of Bel-Air",
+    "years": {
+      "start": 1990,
+      "end": 1996
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/the-fresh-prince-of-bel-air---1990.mp3"
+  },
+  {
+    "name": "Chuck",
+    "years": {
+      "start": 2007,
+      "end": 2012
+    },
+    "genres": ["Action", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/chuck---2007.mp3"
+  },
+  {
+    "name": "Who Is America?",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Comedy"],
+    "audioLocation": "/audio/tv/processed/who-is-america%3F---2018.mp3"
+  },
+  {
+    "name": "Star Trek: Lower Decks",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/star-trek%3A-lower-decks---2020.mp3"
+  },
+  {
+    "name": "SCAM 1992: The Harshad Mehta Story",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Biography", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/scam-1992%3A-the-harshad-mehta-story---2020.mp3"
+  },
+  {
+    "name": "Emily in Paris",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/emily-in-paris---2020.mp3"
+  },
+  {
+    "name": "Fargo",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/fargo---2014.mp3"
+  },
+  {
+    "name": "Mirzapur",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/mirzapur---2018.mp3"
+  },
+  {
+    "name": "Ratched",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/ratched---2020.mp3"
+  },
+  {
+    "name": "Star Trek: Discovery",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/star-trek%3A-discovery---2017.mp3"
+  },
+  {
+    "name": "Lovecraft Country",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/lovecraft-country---2020.mp3"
+  },
+  {
+    "name": "Supernatural",
+    "years": {
+      "start": 2005,
+      "end": 2020
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/supernatural---2005.mp3"
+  },
+  {
+    "name": "La Révolution",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/la-r%C3%A9volution---2020.mp3"
+  },
+  {
+    "name": "Cobra Kai",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Action", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/cobra-kai---2018.mp3"
+  },
+  {
+    "name": "Helstrom",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/helstrom---2020.mp3"
+  },
+  {
+    "name": "Game of Thrones",
+    "years": {
+      "start": 2011,
+      "end": 2019
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/game-of-thrones---2011.mp3"
+  },
+  {
+    "name": "Barbarians",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/barbarians---2020.mp3"
+  },
+  {
+    "name": "The 100",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-100---2014.mp3"
+  },
+  {
+    "name": "Lucifer",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/lucifer---2016.mp3"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "years": {
+      "start": 2005,
+      "end": null
+    },
+    "genres": ["Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/grey's-anatomy---2005.mp3"
+  },
+  {
+    "name": "Dexter",
+    "years": {
+      "start": 2006,
+      "end": 2021
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/dexter---2006.mp3"
+  },
+  {
+    "name": "Raised by Wolves",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/raised-by-wolves---2020.mp3"
+  },
+  {
+    "name": "The Crown",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Drama", "History"],
+    "audioLocation": "/audio/tv/processed/the-crown---2016.mp3"
+  },
+  {
+    "name": "Stranger Things",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/stranger-things---2016.mp3"
+  },
+  {
+    "name": "American Horror Story",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Thriller"],
+    "audioLocation": "/audio/tv/processed/american-horror-story---2011.mp3"
+  },
+  {
+    "name": "Epidemiya",
+    "years": {
+      "start": null,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "audioLocation": "/audio/tv/processed/epidemiya---null.mp3"
+  },
+  {
+    "name": "Evil",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Horror"],
+    "audioLocation": "/audio/tv/processed/evil---2019.mp3"
+  },
+  {
+    "name": "Peaky Blinders",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/peaky-blinders---2013.mp3"
+  },
+  {
+    "name": "Vikings",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/vikings---2013.mp3"
+  },
+  {
+    "name": "Breaking Bad",
+    "years": {
+      "start": 2008,
+      "end": 2013
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/breaking-bad---2008.mp3"
+  },
+  {
+    "name": "The Blacklist",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-blacklist---2013.mp3"
+  },
+  {
+    "name": "Criminal Minds",
+    "years": {
+      "start": 2005,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/criminal-minds---2005.mp3"
+  },
+  {
+    "name": "Fear the Walking Dead",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/fear-the-walking-dead---2015.mp3"
+  },
+  {
+    "name": "Yellowstone",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Drama", "Western"],
+    "audioLocation": "/audio/tv/processed/yellowstone---2018.mp3"
+  },
+  {
+    "name": "The West Wing",
+    "years": {
+      "start": 1999,
+      "end": 2006
+    },
+    "genres": ["Drama"],
+    "audioLocation": "/audio/tv/processed/the-west-wing---1999.mp3"
+  },
+  {
+    "name": "The Angel of Darkness",
+    "years": {
+      "start": 2018,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-angel-of-darkness---2018.mp3"
+  },
+  {
+    "name": "Utopia",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/utopia---2020.mp3"
+  },
+  {
+    "name": "The Walking Dead: World Beyond",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-walking-dead%3A-world-beyond---2020.mp3"
+  },
+  {
+    "name": "The Stand",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-stand---2020.mp3"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "years": {
+      "start": 2009,
+      "end": 2017
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/the-vampire-diaries---2009.mp3"
+  },
+  {
+    "name": "Grand Army",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama"],
+    "audioLocation": "/audio/tv/processed/grand-army---2020.mp3"
+  },
+  {
+    "name": "The Right Stuff",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "History"],
+    "audioLocation": "/audio/tv/processed/the-right-stuff---2020.mp3"
+  },
+  {
+    "name": "Shameless",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/shameless---2011.mp3"
+  },
+  {
+    "name": "Outlander",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "audioLocation": "/audio/tv/processed/outlander---2014.mp3"
+  },
+  {
+    "name": "Modern Family",
+    "years": {
+      "start": 2009,
+      "end": 2020
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/modern-family---2009.mp3"
+  },
+  {
+    "name": "Gilmore Girls",
+    "years": {
+      "start": 2000,
+      "end": 2007
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/gilmore-girls---2000.mp3"
+  },
+  {
+    "name": "This Is Us",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/this-is-us---2016.mp3"
+  },
+  {
+    "name": "NCIS: Naval Criminal Investigative Service",
+    "years": {
+      "start": 2003,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/ncis%3A-naval-criminal-investigative-service---2003.mp3"
+  },
+  {
+    "name": "Black Mirror",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "audioLocation": "/audio/tv/processed/black-mirror---2011.mp3"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "years": {
+      "start": 1999,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/law-%26-order%3A-special-victims-unit---1999.mp3"
+  },
+  {
+    "name": "Sons of Anarchy",
+    "years": {
+      "start": 2008,
+      "end": 2014
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/sons-of-anarchy---2008.mp3"
+  },
+  {
+    "name": "Succession",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Drama"],
+    "audioLocation": "/audio/tv/processed/succession---2018.mp3"
+  },
+  {
+    "name": "The Flight Attendant",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-flight-attendant---2020.mp3"
+  },
+  {
+    "name": "Ted Lasso",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Sport"],
+    "audioLocation": "/audio/tv/processed/ted-lasso---2020.mp3"
+  },
+  {
+    "name": "Dark",
+    "years": {
+      "start": 2017,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/dark---2017.mp3"
+  },
+  {
+    "name": "The Sopranos",
+    "years": {
+      "start": 1999,
+      "end": 2007
+    },
+    "genres": ["Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-sopranos---1999.mp3"
+  },
+  {
+    "name": "You",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/you---2018.mp3"
+  },
+  {
+    "name": "The Undoing",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-undoing---2020.mp3"
+  },
+  {
+    "name": "Brave New World",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/brave-new-world---2020.mp3"
+  },
+  {
+    "name": "Buffy the Vampire Slayer",
+    "years": {
+      "start": 1997,
+      "end": 2003
+    },
+    "genres": ["Action", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/buffy-the-vampire-slayer---1997.mp3"
+  },
+  {
+    "name": "His Dark Materials",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/his-dark-materials---2019.mp3"
+  },
+  {
+    "name": "The Good Place",
+    "years": {
+      "start": 2016,
+      "end": 2020
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-good-place---2016.mp3"
+  },
+  {
+    "name": "Suits",
+    "years": {
+      "start": 2011,
+      "end": 2019
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/suits---2011.mp3"
+  },
+  {
+    "name": "The Handmaid's Tale",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-handmaid's-tale---2017.mp3"
+  },
+  {
+    "name": "Bones",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/bones---2005.mp3"
+  },
+  {
+    "name": "Euphoria",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Drama"],
+    "audioLocation": "/audio/tv/processed/euphoria---2019.mp3"
+  },
+  {
+    "name": "Doctor Who",
+    "years": {
+      "start": 2005,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/doctor-who---2005.mp3"
+  },
+  {
+    "name": "The Last Kingdom",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Action", "Drama", "History"],
+    "audioLocation": "/audio/tv/processed/the-last-kingdom---2015.mp3"
+  },
+  {
+    "name": "Better Call Saul",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/better-call-saul---2015.mp3"
+  },
+  {
+    "name": "The Expanse",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-expanse---2015.mp3"
+  },
+  {
+    "name": "Sherlock",
+    "years": {
+      "start": 2010,
+      "end": 2017
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/sherlock---2010.mp3"
+  },
+  {
+    "name": "Arrow",
+    "years": {
+      "start": 2012,
+      "end": 2020
+    },
+    "genres": ["Action", "Adventure", "Crime"],
+    "audioLocation": "/audio/tv/processed/arrow---2012.mp3"
+  },
+  {
+    "name": "Warrior",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/warrior---2019.mp3"
+  },
+  {
+    "name": "Midsomer Murders",
+    "years": {
+      "start": 1997,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/midsomer-murders---1997.mp3"
+  },
+  {
+    "name": "Lost",
+    "years": {
+      "start": 2004,
+      "end": 2010
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/lost---2004.mp3"
+  },
+  {
+    "name": "The Flash",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-flash---2014.mp3"
+  },
+  {
+    "name": "Designated Survivor",
+    "years": {
+      "start": 2016,
+      "end": 2019
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/designated-survivor---2016.mp3"
+  },
+  {
+    "name": "Homeland",
+    "years": {
+      "start": 2011,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/homeland---2011.mp3"
+  },
+  {
+    "name": "The Wire",
+    "years": {
+      "start": 2002,
+      "end": 2008
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-wire---2002.mp3"
+  },
+  {
+    "name": "Prison Break",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/prison-break---2005.mp3"
+  },
+  {
+    "name": "Kingdom",
+    "years": {
+      "start": 2014,
+      "end": 2017
+    },
+    "genres": ["Drama"],
+    "audioLocation": "/audio/tv/processed/kingdom---2014.mp3"
+  },
+  {
+    "name": "Tehran",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/tehran---2020.mp3"
+  },
+  {
+    "name": "Billions",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Drama"],
+    "audioLocation": "/audio/tv/processed/billions---2016.mp3"
+  },
+  {
+    "name": "True Detective",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/true-detective---2014.mp3"
+  },
+  {
+    "name": "Mindhunter",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/mindhunter---2017.mp3"
+  },
+  {
+    "name": "Away",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/away---2020.mp3"
+  },
+  {
+    "name": "The Fall",
+    "years": {
+      "start": null,
+      "end": 2016
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-fall---null.mp3"
+  },
+  {
+    "name": "Monsterland",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/monsterland---2020.mp3"
+  },
+  {
+    "name": "Mr. Robot",
+    "years": {
+      "start": 2015,
+      "end": 2019
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/mr.-robot---2015.mp3"
+  },
+  {
+    "name": "The Unicorn",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/the-unicorn---2019.mp3"
+  },
+  {
+    "name": "How to Get Away with Murder",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/how-to-get-away-with-murder---2014.mp3"
+  },
+  {
+    "name": "Riviera",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/riviera---2017.mp3"
+  },
+  {
+    "name": "Gossip Girl",
+    "years": {
+      "start": 2007,
+      "end": 2012
+    },
+    "genres": ["Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/gossip-girl---2007.mp3"
+  },
+  {
+    "name": "Chicago Fire",
+    "years": {
+      "start": 2012,
+      "end": null
+    },
+    "genres": ["Action", "Drama"],
+    "audioLocation": "/audio/tv/processed/chicago-fire---2012.mp3"
+  },
+  {
+    "name": "Sex Education",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/sex-education---2019.mp3"
+  },
+  {
+    "name": "Next",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/next---2020.mp3"
+  },
+  {
+    "name": "Downton Abbey",
+    "years": {
+      "start": 2010,
+      "end": 2015
+    },
+    "genres": ["Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/downton-abbey---2010.mp3"
+  },
+  {
+    "name": "The X Files",
+    "years": {
+      "start": 1993,
+      "end": 2018
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-x-files---1993.mp3"
+  },
+  {
+    "name": "ER",
+    "years": {
+      "start": 1994,
+      "end": 2009
+    },
+    "genres": ["Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/er---1994.mp3"
+  },
+  {
+    "name": "His Dark Materials",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/his-dark-materials---2019.mp3"
+  },
+  {
+    "name": "Doctor Who",
+    "years": {
+      "start": 2005,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/doctor-who---2005.mp3"
+  },
+  {
+    "name": "The Unicorn",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/the-unicorn---2019.mp3"
+  },
+  {
+    "name": "Julie and the Phantoms",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/julie-and-the-phantoms---2020.mp3"
+  },
+  {
+    "name": "Heartland",
+    "years": {
+      "start": null,
+      "end": null
+    },
+    "genres": ["Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/heartland---null.mp3"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "years": {
+      "start": 2005,
+      "end": 2008
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/avatar%3A-the-last-airbender---2005.mp3"
+  },
+  {
+    "name": "Home Improvement",
+    "years": {
+      "start": 1991,
+      "end": 1999
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/home-improvement---1991.mp3"
+  },
+  {
+    "name": "Little House on the Prairie",
+    "years": {
+      "start": 1974,
+      "end": 1983
+    },
+    "genres": ["Drama", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/little-house-on-the-prairie---1974.mp3"
+  },
+  {
+    "name": "Malcolm in the Middle",
+    "years": {
+      "start": 2000,
+      "end": 2006
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/malcolm-in-the-middle---2000.mp3"
+  },
+  {
+    "name": "The Legend of Korra",
+    "years": {
+      "start": 2012,
+      "end": 2014
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/the-legend-of-korra---2012.mp3"
+  },
+  {
+    "name": "Anne",
+    "years": {
+      "start": 2017,
+      "end": 2019
+    },
+    "genres": ["Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/anne---2017.mp3"
+  },
+  {
+    "name": "The Addams Family",
+    "years": {
+      "start": 1964,
+      "end": 1966
+    },
+    "genres": ["Comedy", "Family", "Horror"],
+    "audioLocation": "/audio/tv/processed/the-addams-family---1964.mp3"
+  },
+  {
+    "name": "Happy Days",
+    "years": {
+      "start": 1974,
+      "end": 1984
+    },
+    "genres": ["Comedy", "Family", "Music"],
+    "audioLocation": "/audio/tv/processed/happy-days---1974.mp3"
+  },
+  {
+    "name": "DuckTales",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/ducktales---2017.mp3"
+  },
+  {
+    "name": "The Worst Witch",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-worst-witch---2017.mp3"
+  },
+  {
+    "name": "The Andy Griffith Show",
+    "years": {
+      "start": 1960,
+      "end": 1968
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/the-andy-griffith-show---1960.mp3"
+  },
+  {
+    "name": "Sister, Sister",
+    "years": {
+      "start": 1994,
+      "end": 1999
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/sister%2C-sister---1994.mp3"
+  },
+  {
+    "name": "Lost in Space",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/lost-in-space---2018.mp3"
+  },
+  {
+    "name": "Boy Meets World",
+    "years": {
+      "start": 1993,
+      "end": 2000
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/boy-meets-world---1993.mp3"
+  },
+  {
+    "name": "The Waltons",
+    "years": {
+      "start": 1972,
+      "end": 1981
+    },
+    "genres": ["Drama", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/the-waltons---1972.mp3"
+  },
+  {
+    "name": "Chesapeake Shores",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/chesapeake-shores---2016.mp3"
+  },
+  {
+    "name": "Star Wars: Rebels",
+    "years": {
+      "start": 2014,
+      "end": 2018
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/star-wars%3A-rebels---2014.mp3"
+  },
+  {
+    "name": "SpongeBob SquarePants",
+    "years": {
+      "start": 1999,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/spongebob-squarepants---1999.mp3"
+  },
+  {
+    "name": "Gravity Falls",
+    "years": {
+      "start": 2012,
+      "end": 2016
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/gravity-falls---2012.mp3"
+  },
+  {
+    "name": "Saved by the Bell",
+    "years": {
+      "start": 1989,
+      "end": 1992
+    },
+    "genres": ["Comedy", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/saved-by-the-bell---1989.mp3"
+  },
+  {
+    "name": "A Series of Unfortunate Events",
+    "years": {
+      "start": 2017,
+      "end": 2019
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/a-series-of-unfortunate-events---2017.mp3"
+  },
+  {
+    "name": "The Nanny",
+    "years": {
+      "start": 1993,
+      "end": 1999
+    },
+    "genres": ["Comedy", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/the-nanny---1993.mp3"
+  },
+  {
+    "name": "Sabrina, the Teenage Witch",
+    "years": {
+      "start": 1996,
+      "end": 2003
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/sabrina%2C-the-teenage-witch---1996.mp3"
+  },
+  {
+    "name": "Animaniacs",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/animaniacs---2020.mp3"
+  },
+  {
+    "name": "Peppa Pig",
+    "years": {
+      "start": 2004,
+      "end": null
+    },
+    "genres": ["Animation", "Family"],
+    "audioLocation": "/audio/tv/processed/peppa-pig---2004.mp3"
+  },
+  {
+    "name": "Keeping Up with the Kardashians",
+    "years": {
+      "start": 2006,
+      "end": null
+    },
+    "genres": ["Drama", "Family", "Reality-TV"],
+    "audioLocation": "/audio/tv/processed/keeping-up-with-the-kardashians---2006.mp3"
+  },
+  {
+    "name": "Full House",
+    "years": {
+      "start": 1987,
+      "end": 1995
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/full-house---1987.mp3"
+  },
+  {
+    "name": "Bewitched",
+    "years": {
+      "start": 1964,
+      "end": 1972
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/bewitched---1964.mp3"
+  },
+  {
+    "name": "Adventure Time",
+    "years": {
+      "start": 2010,
+      "end": 2018
+    },
+    "genres": ["Animation", "Short", "Action"],
+    "audioLocation": "/audio/tv/processed/adventure-time---2010.mp3"
+  },
+  {
+    "name": "The Brady Bunch",
+    "years": {
+      "start": 1969,
+      "end": 1974
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/the-brady-bunch---1969.mp3"
+  },
+  {
+    "name": "3rd Rock from the Sun",
+    "years": {
+      "start": 1996,
+      "end": 2001
+    },
+    "genres": ["Comedy", "Family", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/3rd-rock-from-the-sun---1996.mp3"
+  },
+  {
+    "name": "The Munsters",
+    "years": {
+      "start": 1964,
+      "end": 1966
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-munsters---1964.mp3"
+  },
+  {
+    "name": "Victorious",
+    "years": {
+      "start": 2010,
+      "end": 2013
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/victorious---2010.mp3"
+  },
+  {
+    "name": "Jessie",
+    "years": {
+      "start": 2011,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/jessie---2011.mp3"
+  },
+  {
+    "name": "7th Heaven",
+    "years": {
+      "start": 1996,
+      "end": 2007
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/7th-heaven---1996.mp3"
+  },
+  {
+    "name": "Henry Danger",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Action", "Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/henry-danger---2014.mp3"
+  },
+  {
+    "name": "iCarly",
+    "years": {
+      "start": 2007,
+      "end": 2012
+    },
+    "genres": ["Comedy", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/icarly---2007.mp3"
+  },
+  {
+    "name": "Family Matters",
+    "years": {
+      "start": 1989,
+      "end": 1998
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/family-matters---1989.mp3"
+  },
+  {
+    "name": "Zoey 101",
+    "years": {
+      "start": 2005,
+      "end": 2008
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/zoey-101---2005.mp3"
+  },
+  {
+    "name": "Batman: The Animated Series",
+    "years": {
+      "start": 1992,
+      "end": 1995
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/batman%3A-the-animated-series---1992.mp3"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "years": {
+      "start": 2007,
+      "end": 2015
+    },
+    "genres": ["Animation", "Action", "Comedy"],
+    "audioLocation": "/audio/tv/processed/phineas-and-ferb---2007.mp3"
+  },
+  {
+    "name": "Gilligan's Island",
+    "years": {
+      "start": 1964,
+      "end": 1992
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/gilligan's-island---1964.mp3"
+  },
+  {
+    "name": "Fuller House",
+    "years": {
+      "start": 2016,
+      "end": 2020
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/fuller-house---2016.mp3"
+  },
+  {
+    "name": "Hannah Montana",
+    "years": {
+      "start": 2006,
+      "end": 2011
+    },
+    "genres": ["Comedy", "Family", "Music"],
+    "audioLocation": "/audio/tv/processed/hannah-montana---2006.mp3"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/miraculous%3A-tales-of-ladybug-%26-cat-noir---2015.mp3"
+  },
+  {
+    "name": "The Facts of Life",
+    "years": {
+      "start": 1979,
+      "end": 1988
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/the-facts-of-life---1979.mp3"
+  },
+  {
+    "name": "Goosebumps",
+    "years": {
+      "start": 1995,
+      "end": 1998
+    },
+    "genres": ["Family", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/goosebumps---1995.mp3"
+  },
+  {
+    "name": "Batman",
+    "years": {
+      "start": 1966,
+      "end": 1968
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/batman---1966.mp3"
+  },
+  {
+    "name": "The Wonder Years",
+    "years": {
+      "start": 1988,
+      "end": 1993
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/the-wonder-years---1988.mp3"
+  },
+  {
+    "name": "Growing Pains",
+    "years": {
+      "start": 1985,
+      "end": 1992
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/growing-pains---1985.mp3"
+  },
+  {
+    "name": "Animaniacs",
+    "years": {
+      "start": 1993,
+      "end": 1998
+    },
+    "genres": ["Animation", "Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/animaniacs---1993.mp3"
+  },
+  {
+    "name": "She-Ra and the Princesses of Power",
+    "years": {
+      "start": 2018,
+      "end": 2020
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/she-ra-and-the-princesses-of-power---2018.mp3"
+  },
+  {
+    "name": "Are You Afraid of the Dark?",
+    "years": {
+      "start": 1990,
+      "end": 2000
+    },
+    "genres": ["Drama", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/are-you-afraid-of-the-dark%3F---1990.mp3"
+  },
+  {
+    "name": "The Secret Life of the American Teenager",
+    "years": {
+      "start": 2008,
+      "end": 2013
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/the-secret-life-of-the-american-teenager---2008.mp3"
+  },
+  {
+    "name": "Family Ties",
+    "years": {
+      "start": 1982,
+      "end": 1989
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/family-ties---1982.mp3"
+  },
+  {
+    "name": "Bunk'd",
+    "years": {
+      "start": 2015,
+      "end": 2021
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/bunk'd---2015.mp3"
+  },
+  {
+    "name": "Wizards of Waverly Place",
+    "years": {
+      "start": 2007,
+      "end": 2012
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/wizards-of-waverly-place---2007.mp3"
+  },
+  {
+    "name": "Girl Meets World",
+    "years": {
+      "start": 2014,
+      "end": 2017
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/girl-meets-world---2014.mp3"
+  },
+  {
+    "name": "The Dark Crystal: Age of Resistance",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/the-dark-crystal%3A-age-of-resistance---2019.mp3"
+  },
+  {
+    "name": "The Cosby Show",
+    "years": {
+      "start": 1984,
+      "end": 1992
+    },
+    "genres": ["Comedy", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/the-cosby-show---1984.mp3"
+  },
+  {
+    "name": "The Last Kids on Earth",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/the-last-kids-on-earth---2019.mp3"
+  },
+  {
+    "name": "Step by Step",
+    "years": {
+      "start": 1991,
+      "end": 1998
+    },
+    "genres": ["Comedy", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/step-by-step---1991.mp3"
+  },
+  {
+    "name": "Alex Rider",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Family"],
+    "audioLocation": "/audio/tv/processed/alex-rider---2020.mp3"
+  },
+  {
+    "name": "Steven Universe",
+    "years": {
+      "start": 2013,
+      "end": 2020
+    },
+    "genres": ["Animation", "Short", "Adventure"],
+    "audioLocation": "/audio/tv/processed/steven-universe---2013.mp3"
+  },
+  {
+    "name": "H2O: Just Add Water",
+    "years": {
+      "start": 2006,
+      "end": 2010
+    },
+    "genres": ["Drama", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/h2o%3A-just-add-water---2006.mp3"
+  },
+  {
+    "name": "The Dragon Prince",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Animation", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-dragon-prince---2018.mp3"
+  },
+  {
+    "name": "Good Luck Charlie",
+    "years": {
+      "start": 2010,
+      "end": 2014
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/good-luck-charlie---2010.mp3"
+  },
+  {
+    "name": "Leave It to Beaver",
+    "years": {
+      "start": 1957,
+      "end": 1963
+    },
+    "genres": ["Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/leave-it-to-beaver---1957.mp3"
+  },
+  {
+    "name": "Pokémon",
+    "years": {
+      "start": 1997,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/pok%C3%A9mon---1997.mp3"
+  },
+  {
+    "name": "Dragon Ball Super",
+    "years": {
+      "start": 2015,
+      "end": 2018
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/dragon-ball-super---2015.mp3"
+  },
+  {
+    "name": "Party of Five",
+    "years": {
+      "start": 1994,
+      "end": 2000
+    },
+    "genres": ["Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/party-of-five---1994.mp3"
+  },
+  {
+    "name": "Mighty Morphin Power Rangers",
+    "years": {
+      "start": 1993,
+      "end": 1996
+    },
+    "genres": ["Action", "Adventure", "Family"],
+    "audioLocation": "/audio/tv/processed/mighty-morphin-power-rangers---1993.mp3"
+  },
+  {
+    "name": "Star Trek: Discovery",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/star-trek%3A-discovery---2017.mp3"
+  },
+  {
+    "name": "La Révolution",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/la-r%C3%A9volution---2020.mp3"
+  },
+  {
+    "name": "Helstrom",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/helstrom---2020.mp3"
+  },
+  {
+    "name": "Game of Thrones",
+    "years": {
+      "start": 2011,
+      "end": 2019
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/game-of-thrones---2011.mp3"
+  },
+  {
+    "name": "Barbarians",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/barbarians---2020.mp3"
+  },
+  {
+    "name": "Vikings",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/vikings---2013.mp3"
+  },
+  {
+    "name": "The Stand",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-stand---2020.mp3"
+  },
+  {
+    "name": "His Dark Materials",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/his-dark-materials---2019.mp3"
+  },
+  {
+    "name": "Doctor Who",
+    "years": {
+      "start": 2005,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/doctor-who---2005.mp3"
+  },
+  {
+    "name": "Arrow",
+    "years": {
+      "start": 2012,
+      "end": 2020
+    },
+    "genres": ["Action", "Adventure", "Crime"],
+    "audioLocation": "/audio/tv/processed/arrow---2012.mp3"
+  },
+  {
+    "name": "Lost",
+    "years": {
+      "start": 2004,
+      "end": 2010
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/lost---2004.mp3"
+  },
+  {
+    "name": "The Flash",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-flash---2014.mp3"
+  },
+  {
+    "name": "Rick and Morty",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/rick-and-morty---2013.mp3"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "years": {
+      "start": 2005,
+      "end": 2008
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/avatar%3A-the-last-airbender---2005.mp3"
+  },
+  {
+    "name": "Doom Patrol",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/doom-patrol---2019.mp3"
+  },
+  {
+    "name": "The Legend of Korra",
+    "years": {
+      "start": 2012,
+      "end": 2014
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/the-legend-of-korra---2012.mp3"
+  },
+  {
+    "name": "The Orville",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-orville---2017.mp3"
+  },
+  {
+    "name": "My Hero Academia",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/my-hero-academia---2016.mp3"
+  },
+  {
+    "name": "Star Trek: Lower Decks",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/star-trek%3A-lower-decks---2020.mp3"
+  },
+  {
+    "name": "DuckTales",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/ducktales---2017.mp3"
+  },
+  {
+    "name": "Lost in Space",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/lost-in-space---2018.mp3"
+  },
+  {
+    "name": "Star Wars: Rebels",
+    "years": {
+      "start": 2014,
+      "end": 2018
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/star-wars%3A-rebels---2014.mp3"
+  },
+  {
+    "name": "Gravity Falls",
+    "years": {
+      "start": 2012,
+      "end": 2016
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/gravity-falls---2012.mp3"
+  },
+  {
+    "name": "A Series of Unfortunate Events",
+    "years": {
+      "start": 2017,
+      "end": 2019
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/a-series-of-unfortunate-events---2017.mp3"
+  },
+  {
+    "name": "Adventure Time",
+    "years": {
+      "start": 2010,
+      "end": 2018
+    },
+    "genres": ["Animation", "Short", "Action"],
+    "audioLocation": "/audio/tv/processed/adventure-time---2010.mp3"
+  },
+  {
+    "name": "Family Matters",
+    "years": {
+      "start": 1989,
+      "end": 1998
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/family-matters---1989.mp3"
+  },
+  {
+    "name": "Emily in Paris",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/emily-in-paris---2020.mp3"
+  },
+  {
+    "name": "Game of Thrones",
+    "years": {
+      "start": 2011,
+      "end": 2019
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/game-of-thrones---2011.mp3"
+  },
+  {
+    "name": "Grey's Anatomy",
+    "years": {
+      "start": 2005,
+      "end": null
+    },
+    "genres": ["Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/grey's-anatomy---2005.mp3"
+  },
+  {
+    "name": "Vikings",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/vikings---2013.mp3"
+  },
+  {
+    "name": "Friends",
+    "years": {
+      "start": 1994,
+      "end": 2004
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/friends---1994.mp3"
+  },
+  {
+    "name": "The Big Bang Theory",
+    "years": {
+      "start": 2007,
+      "end": 2019
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/the-big-bang-theory---2007.mp3"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "years": {
+      "start": 2009,
+      "end": 2017
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/the-vampire-diaries---2009.mp3"
+  },
+  {
+    "name": "Outlander",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Romance"],
+    "audioLocation": "/audio/tv/processed/outlander---2014.mp3"
+  },
+  {
+    "name": "Modern Family",
+    "years": {
+      "start": 2009,
+      "end": 2020
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/modern-family---2009.mp3"
+  },
+  {
+    "name": "This Is Us",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/this-is-us---2016.mp3"
+  },
+  {
+    "name": "You",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/you---2018.mp3"
+  },
+  {
+    "name": "Buffy the Vampire Slayer",
+    "years": {
+      "start": 1997,
+      "end": 2003
+    },
+    "genres": ["Action", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/buffy-the-vampire-slayer---1997.mp3"
+  },
+  {
+    "name": "The Good Place",
+    "years": {
+      "start": 2016,
+      "end": 2020
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-good-place---2016.mp3"
+  },
+  {
+    "name": "Bones",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/bones---2005.mp3"
+  },
+  {
+    "name": "How I Met Your Mother",
+    "years": {
+      "start": 2005,
+      "end": 2014
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/how-i-met-your-mother---2005.mp3"
+  },
+  {
+    "name": "Two and a Half Men",
+    "years": {
+      "start": 2003,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/two-and-a-half-men---2003.mp3"
+  },
+  {
+    "name": "Away",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/away---2020.mp3"
+  },
+  {
+    "name": "Gossip Girl",
+    "years": {
+      "start": 2007,
+      "end": 2012
+    },
+    "genres": ["Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/gossip-girl---2007.mp3"
+  },
+  {
+    "name": "Downton Abbey",
+    "years": {
+      "start": 2010,
+      "end": 2015
+    },
+    "genres": ["Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/downton-abbey---2010.mp3"
+  },
+  {
+    "name": "ER",
+    "years": {
+      "start": 1994,
+      "end": 2009
+    },
+    "genres": ["Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/er---1994.mp3"
+  },
+  {
+    "name": "Misfits",
+    "years": {
+      "start": 2009,
+      "end": 2013
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/misfits---2009.mp3"
+  },
+  {
+    "name": "Hart of Dixie",
+    "years": {
+      "start": 2011,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/hart-of-dixie---2011.mp3"
+  },
+  {
+    "name": "Little House on the Prairie",
+    "years": {
+      "start": 1974,
+      "end": 1983
+    },
+    "genres": ["Drama", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/little-house-on-the-prairie---1974.mp3"
+  },
+  {
+    "name": "Love Life",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/love-life---2020.mp3"
+  },
+  {
+    "name": "Mom",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/mom---2013.mp3"
+  },
+  {
+    "name": "Castle",
+    "years": {
+      "start": 2009,
+      "end": 2016
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/castle---2009.mp3"
+  },
+  {
+    "name": "Desperate Housewives",
+    "years": {
+      "start": 2004,
+      "end": 2012
+    },
+    "genres": ["Comedy", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/desperate-housewives---2004.mp3"
+  },
+  {
+    "name": "Sex and the City",
+    "years": {
+      "start": 1998,
+      "end": 2004
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/sex-and-the-city---1998.mp3"
+  },
+  {
+    "name": "Adult Material",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/adult-material---2020.mp3"
+  },
+  {
+    "name": "Younger",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Comedy", "Romance"],
+    "audioLocation": "/audio/tv/processed/younger---2015.mp3"
+  },
+  {
+    "name": "The Waltons",
+    "years": {
+      "start": 1972,
+      "end": 1981
+    },
+    "genres": ["Drama", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/the-waltons---1972.mp3"
+  },
+  {
+    "name": "Saved by the Bell",
+    "years": {
+      "start": 1989,
+      "end": 1992
+    },
+    "genres": ["Comedy", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/saved-by-the-bell---1989.mp3"
+  },
+  {
+    "name": "The Nanny",
+    "years": {
+      "start": 1993,
+      "end": 1999
+    },
+    "genres": ["Comedy", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/the-nanny---1993.mp3"
+  },
+  {
+    "name": "Bewitched",
+    "years": {
+      "start": 1964,
+      "end": 1972
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/bewitched---1964.mp3"
+  },
+  {
+    "name": "Victorious",
+    "years": {
+      "start": 2010,
+      "end": 2013
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/victorious---2010.mp3"
+  },
+  {
+    "name": "7th Heaven",
+    "years": {
+      "start": 1996,
+      "end": 2007
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/7th-heaven---1996.mp3"
+  },
+  {
+    "name": "iCarly",
+    "years": {
+      "start": 2007,
+      "end": 2012
+    },
+    "genres": ["Comedy", "Family", "Romance"],
+    "audioLocation": "/audio/tv/processed/icarly---2007.mp3"
+  },
+  {
+    "name": "Zoey 101",
+    "years": {
+      "start": 2005,
+      "end": 2008
+    },
+    "genres": ["Comedy", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/zoey-101---2005.mp3"
+  },
+  {
+    "name": "The Boys",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/the-boys---2019.mp3"
+  },
+  {
+    "name": "Mirzapur",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/mirzapur---2018.mp3"
+  },
+  {
+    "name": "Star Trek: Discovery",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/star-trek%3A-discovery---2017.mp3"
+  },
+  {
+    "name": "La Révolution",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/la-r%C3%A9volution---2020.mp3"
+  },
+  {
+    "name": "Cobra Kai",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Action", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/cobra-kai---2018.mp3"
+  },
+  {
+    "name": "Helstrom",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/helstrom---2020.mp3"
+  },
+  {
+    "name": "Game of Thrones",
+    "years": {
+      "start": 2011,
+      "end": 2019
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/game-of-thrones---2011.mp3"
+  },
+  {
+    "name": "Barbarians",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/barbarians---2020.mp3"
+  },
+  {
+    "name": "Vikings",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/vikings---2013.mp3"
+  },
+  {
+    "name": "Utopia",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/utopia---2020.mp3"
+  },
+  {
+    "name": "NCIS: Naval Criminal Investigative Service",
+    "years": {
+      "start": 2003,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/ncis%3A-naval-criminal-investigative-service---2003.mp3"
+  },
+  {
+    "name": "Buffy the Vampire Slayer",
+    "years": {
+      "start": 1997,
+      "end": 2003
+    },
+    "genres": ["Action", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/buffy-the-vampire-slayer---1997.mp3"
+  },
+  {
+    "name": "The Last Kingdom",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Action", "Drama", "History"],
+    "audioLocation": "/audio/tv/processed/the-last-kingdom---2015.mp3"
+  },
+  {
+    "name": "Arrow",
+    "years": {
+      "start": 2012,
+      "end": 2020
+    },
+    "genres": ["Action", "Adventure", "Crime"],
+    "audioLocation": "/audio/tv/processed/arrow---2012.mp3"
+  },
+  {
+    "name": "Warrior",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/warrior---2019.mp3"
+  },
+  {
+    "name": "The Flash",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-flash---2014.mp3"
+  },
+  {
+    "name": "Designated Survivor",
+    "years": {
+      "start": 2016,
+      "end": 2019
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/designated-survivor---2016.mp3"
+  },
+  {
+    "name": "Prison Break",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/prison-break---2005.mp3"
+  },
+  {
+    "name": "Archer",
+    "years": {
+      "start": 2009,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Comedy"],
+    "audioLocation": "/audio/tv/processed/archer---2009.mp3"
+  },
+  {
+    "name": "Chicago Fire",
+    "years": {
+      "start": 2012,
+      "end": null
+    },
+    "genres": ["Action", "Drama"],
+    "audioLocation": "/audio/tv/processed/chicago-fire---2012.mp3"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "years": {
+      "start": 2005,
+      "end": 2008
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/avatar%3A-the-last-airbender---2005.mp3"
+  },
+  {
+    "name": "Doom Patrol",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/doom-patrol---2019.mp3"
+  },
+  {
+    "name": "The Legend of Korra",
+    "years": {
+      "start": 2012,
+      "end": 2014
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/the-legend-of-korra---2012.mp3"
+  },
+  {
+    "name": "L.A.'s Finest",
+    "years": {
+      "start": 2019,
+      "end": 2020
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/l.a.'s-finest---2019.mp3"
+  },
+  {
+    "name": "My Hero Academia",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/my-hero-academia---2016.mp3"
+  },
+  {
+    "name": "Chuck",
+    "years": {
+      "start": 2007,
+      "end": 2012
+    },
+    "genres": ["Action", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/chuck---2007.mp3"
+  },
+  {
+    "name": "Star Trek: Lower Decks",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/star-trek%3A-lower-decks---2020.mp3"
+  },
+  {
+    "name": "DuckTales",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/ducktales---2017.mp3"
+  },
+  {
+    "name": "The Boys",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/the-boys---2019.mp3"
+  },
+  {
+    "name": "Star Trek: Discovery",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/star-trek%3A-discovery---2017.mp3"
+  },
+  {
+    "name": "Lovecraft Country",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/lovecraft-country---2020.mp3"
+  },
+  {
+    "name": "Helstrom",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/helstrom---2020.mp3"
+  },
+  {
+    "name": "The 100",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-100---2014.mp3"
+  },
+  {
+    "name": "Raised by Wolves",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/raised-by-wolves---2020.mp3"
+  },
+  {
+    "name": "Stranger Things",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/stranger-things---2016.mp3"
+  },
+  {
+    "name": "Epidemiya",
+    "years": {
+      "start": null,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "audioLocation": "/audio/tv/processed/epidemiya---null.mp3"
+  },
+  {
+    "name": "Fear the Walking Dead",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/fear-the-walking-dead---2015.mp3"
+  },
+  {
+    "name": "Utopia",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/utopia---2020.mp3"
+  },
+  {
+    "name": "The Walking Dead: World Beyond",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-walking-dead%3A-world-beyond---2020.mp3"
+  },
+  {
+    "name": "The Stand",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-stand---2020.mp3"
+  },
+  {
+    "name": "Black Mirror",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "audioLocation": "/audio/tv/processed/black-mirror---2011.mp3"
+  },
+  {
+    "name": "Dark",
+    "years": {
+      "start": 2017,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/dark---2017.mp3"
+  },
+  {
+    "name": "Brave New World",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/brave-new-world---2020.mp3"
+  },
+  {
+    "name": "The Handmaid's Tale",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-handmaid's-tale---2017.mp3"
+  },
+  {
+    "name": "Doctor Who",
+    "years": {
+      "start": 2005,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/doctor-who---2005.mp3"
+  },
+  {
+    "name": "The Expanse",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-expanse---2015.mp3"
+  },
+  {
+    "name": "Arrow",
+    "years": {
+      "start": 2012,
+      "end": 2020
+    },
+    "genres": ["Action", "Adventure", "Crime"],
+    "audioLocation": "/audio/tv/processed/arrow---2012.mp3"
+  },
+  {
+    "name": "Lost",
+    "years": {
+      "start": 2004,
+      "end": 2010
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/lost---2004.mp3"
+  },
+  {
+    "name": "The Flash",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-flash---2014.mp3"
+  },
+  {
+    "name": "Away",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Romance", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/away---2020.mp3"
+  },
+  {
+    "name": "Next",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/next---2020.mp3"
+  },
+  {
+    "name": "The X Files",
+    "years": {
+      "start": 1993,
+      "end": 2018
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-x-files---1993.mp3"
+  },
+  {
+    "name": "Rick and Morty",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/rick-and-morty---2013.mp3"
+  },
+  {
+    "name": "Misfits",
+    "years": {
+      "start": 2009,
+      "end": 2013
+    },
+    "genres": ["Comedy", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/misfits---2009.mp3"
+  },
+  {
+    "name": "Doom Patrol",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/doom-patrol---2019.mp3"
+  },
+  {
+    "name": "The Legend of Korra",
+    "years": {
+      "start": 2012,
+      "end": 2014
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/the-legend-of-korra---2012.mp3"
+  },
+  {
+    "name": "The Orville",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Adventure", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-orville---2017.mp3"
+  },
+  {
+    "name": "My Hero Academia",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/my-hero-academia---2016.mp3"
+  },
+  {
+    "name": "Star Trek: Lower Decks",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/star-trek%3A-lower-decks---2020.mp3"
+  },
+  {
+    "name": "DuckTales",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/ducktales---2017.mp3"
+  },
+  {
+    "name": "Lost in Space",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/lost-in-space---2018.mp3"
+  },
+  {
+    "name": "Star Wars: Rebels",
+    "years": {
+      "start": 2014,
+      "end": 2018
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/star-wars%3A-rebels---2014.mp3"
+  },
+  {
+    "name": "Gravity Falls",
+    "years": {
+      "start": 2012,
+      "end": 2016
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/gravity-falls---2012.mp3"
+  },
+  {
+    "name": "Adventure Time",
+    "years": {
+      "start": 2010,
+      "end": 2018
+    },
+    "genres": ["Animation", "Short", "Action"],
+    "audioLocation": "/audio/tv/processed/adventure-time---2010.mp3"
+  },
+  {
+    "name": "Lovecraft Country",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/lovecraft-country---2020.mp3"
+  },
+  {
+    "name": "Supernatural",
+    "years": {
+      "start": 2005,
+      "end": 2020
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/supernatural---2005.mp3"
+  },
+  {
+    "name": "Helstrom",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/helstrom---2020.mp3"
+  },
+  {
+    "name": "Stranger Things",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/stranger-things---2016.mp3"
+  },
+  {
+    "name": "American Horror Story",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Thriller"],
+    "audioLocation": "/audio/tv/processed/american-horror-story---2011.mp3"
+  },
+  {
+    "name": "Evil",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Horror"],
+    "audioLocation": "/audio/tv/processed/evil---2019.mp3"
+  },
+  {
+    "name": "Fear the Walking Dead",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/fear-the-walking-dead---2015.mp3"
+  },
+  {
+    "name": "The Walking Dead: World Beyond",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-walking-dead%3A-world-beyond---2020.mp3"
+  },
+  {
+    "name": "The Stand",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-stand---2020.mp3"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "years": {
+      "start": 2009,
+      "end": 2017
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/the-vampire-diaries---2009.mp3"
+  },
+  {
+    "name": "Monsterland",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/monsterland---2020.mp3"
+  },
+  {
+    "name": "What We Do in the Shadows",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Comedy", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/what-we-do-in-the-shadows---2019.mp3"
+  },
+  {
+    "name": "The Addams Family",
+    "years": {
+      "start": 1964,
+      "end": 1966
+    },
+    "genres": ["Comedy", "Family", "Horror"],
+    "audioLocation": "/audio/tv/processed/the-addams-family---1964.mp3"
+  },
+  {
+    "name": "iZombie",
+    "years": {
+      "start": 2015,
+      "end": 2019
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/izombie---2015.mp3"
+  },
+  {
+    "name": "Gravity Falls",
+    "years": {
+      "start": 2012,
+      "end": 2016
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/gravity-falls---2012.mp3"
+  },
+  {
+    "name": "The Munsters",
+    "years": {
+      "start": 1964,
+      "end": 1966
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-munsters---1964.mp3"
+  },
+  {
+    "name": "Goosebumps",
+    "years": {
+      "start": 1995,
+      "end": 1998
+    },
+    "genres": ["Family", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/goosebumps---1995.mp3"
+  },
+  {
+    "name": "Are You Afraid of the Dark?",
+    "years": {
+      "start": 1990,
+      "end": 2000
+    },
+    "genres": ["Drama", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/are-you-afraid-of-the-dark%3F---1990.mp3"
+  },
+  {
+    "name": "The Last Kids on Earth",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/the-last-kids-on-earth---2019.mp3"
+  },
+  {
+    "name": "The Boys",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/the-boys---2019.mp3"
+  },
+  {
+    "name": "SCAM 1992: The Harshad Mehta Story",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Biography", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/scam-1992%3A-the-harshad-mehta-story---2020.mp3"
+  },
+  {
+    "name": "Fargo",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/fargo---2014.mp3"
+  },
+  {
+    "name": "Mirzapur",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/mirzapur---2018.mp3"
+  },
+  {
+    "name": "Ratched",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/ratched---2020.mp3"
+  },
+  {
+    "name": "Lucifer",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/lucifer---2016.mp3"
+  },
+  {
+    "name": "Dexter",
+    "years": {
+      "start": 2006,
+      "end": 2021
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/dexter---2006.mp3"
+  },
+  {
+    "name": "Evil",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Horror"],
+    "audioLocation": "/audio/tv/processed/evil---2019.mp3"
+  },
+  {
+    "name": "Peaky Blinders",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/peaky-blinders---2013.mp3"
+  },
+  {
+    "name": "Breaking Bad",
+    "years": {
+      "start": 2008,
+      "end": 2013
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/breaking-bad---2008.mp3"
+  },
+  {
+    "name": "The Blacklist",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-blacklist---2013.mp3"
+  },
+  {
+    "name": "Criminal Minds",
+    "years": {
+      "start": 2005,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/criminal-minds---2005.mp3"
+  },
+  {
+    "name": "The Angel of Darkness",
+    "years": {
+      "start": 2018,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-angel-of-darkness---2018.mp3"
+  },
+  {
+    "name": "NCIS: Naval Criminal Investigative Service",
+    "years": {
+      "start": 2003,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/ncis%3A-naval-criminal-investigative-service---2003.mp3"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "years": {
+      "start": 1999,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/law-%26-order%3A-special-victims-unit---1999.mp3"
+  },
+  {
+    "name": "Sons of Anarchy",
+    "years": {
+      "start": 2008,
+      "end": 2014
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/sons-of-anarchy---2008.mp3"
+  },
+  {
+    "name": "Dark",
+    "years": {
+      "start": 2017,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/dark---2017.mp3"
+  },
+  {
+    "name": "Brooklyn Nine-Nine",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/brooklyn-nine-nine---2013.mp3"
+  },
+  {
+    "name": "The Sopranos",
+    "years": {
+      "start": 1999,
+      "end": 2007
+    },
+    "genres": ["Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-sopranos---1999.mp3"
+  },
+  {
+    "name": "You",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/you---2018.mp3"
+  },
+  {
+    "name": "Bones",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/bones---2005.mp3"
+  },
+  {
+    "name": "Better Call Saul",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/better-call-saul---2015.mp3"
+  },
+  {
+    "name": "Sherlock",
+    "years": {
+      "start": 2010,
+      "end": 2017
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/sherlock---2010.mp3"
+  },
+  {
+    "name": "Arrow",
+    "years": {
+      "start": 2012,
+      "end": 2020
+    },
+    "genres": ["Action", "Adventure", "Crime"],
+    "audioLocation": "/audio/tv/processed/arrow---2012.mp3"
+  },
+  {
+    "name": "Warrior",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/warrior---2019.mp3"
+  },
+  {
+    "name": "Midsomer Murders",
+    "years": {
+      "start": 1997,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/midsomer-murders---1997.mp3"
+  },
+  {
+    "name": "Homeland",
+    "years": {
+      "start": 2011,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/homeland---2011.mp3"
+  },
+  {
+    "name": "The Wire",
+    "years": {
+      "start": 2002,
+      "end": 2008
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-wire---2002.mp3"
+  },
+  {
+    "name": "Prison Break",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/prison-break---2005.mp3"
+  },
+  {
+    "name": "True Detective",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/true-detective---2014.mp3"
+  },
+  {
+    "name": "Mindhunter",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/mindhunter---2017.mp3"
+  },
+  {
+    "name": "The Fall",
+    "years": {
+      "start": null,
+      "end": 2016
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-fall---null.mp3"
+  },
+  {
+    "name": "Mr. Robot",
+    "years": {
+      "start": 2015,
+      "end": 2019
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/mr.-robot---2015.mp3"
+  },
+  {
+    "name": "How to Get Away with Murder",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/how-to-get-away-with-murder---2014.mp3"
+  },
+  {
+    "name": "Next",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/next---2020.mp3"
+  },
+  {
+    "name": "The X Files",
+    "years": {
+      "start": 1993,
+      "end": 2018
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-x-files---1993.mp3"
+  },
+  {
+    "name": "Orange Is the New Black",
+    "years": {
+      "start": 2013,
+      "end": 2019
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/orange-is-the-new-black---2013.mp3"
+  },
+  {
+    "name": "Psych",
+    "years": {
+      "start": 2006,
+      "end": 2014
+    },
+    "genres": ["Comedy", "Crime", "Mystery"],
+    "audioLocation": "/audio/tv/processed/psych---2006.mp3"
+  },
+  {
+    "name": "Death in Paradise",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/death-in-paradise---2011.mp3"
+  },
+  {
+    "name": "Monk",
+    "years": {
+      "start": 2002,
+      "end": 2009
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/monk---2002.mp3"
+  },
+  {
+    "name": "Good Girls",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/good-girls---2018.mp3"
+  },
+  {
+    "name": "L.A.'s Finest",
+    "years": {
+      "start": 2019,
+      "end": 2020
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/l.a.'s-finest---2019.mp3"
+  },
+  {
+    "name": "Castle",
+    "years": {
+      "start": 2009,
+      "end": 2016
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/castle---2009.mp3"
+  },
+  {
+    "name": "New Tricks",
+    "years": {
+      "start": 2003,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/new-tricks---2003.mp3"
+  },
+  {
+    "name": "Ratched",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/ratched---2020.mp3"
+  },
+  {
+    "name": "Lovecraft Country",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/lovecraft-country---2020.mp3"
+  },
+  {
+    "name": "Supernatural",
+    "years": {
+      "start": 2005,
+      "end": 2020
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/supernatural---2005.mp3"
+  },
+  {
+    "name": "The 100",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-100---2014.mp3"
+  },
+  {
+    "name": "Dexter",
+    "years": {
+      "start": 2006,
+      "end": 2021
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/dexter---2006.mp3"
+  },
+  {
+    "name": "Stranger Things",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/stranger-things---2016.mp3"
+  },
+  {
+    "name": "Evil",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Horror"],
+    "audioLocation": "/audio/tv/processed/evil---2019.mp3"
+  },
+  {
+    "name": "The Blacklist",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-blacklist---2013.mp3"
+  },
+  {
+    "name": "Criminal Minds",
+    "years": {
+      "start": 2005,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/criminal-minds---2005.mp3"
+  },
+  {
+    "name": "The Angel of Darkness",
+    "years": {
+      "start": 2018,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-angel-of-darkness---2018.mp3"
+  },
+  {
+    "name": "Utopia",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/utopia---2020.mp3"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "years": {
+      "start": 2009,
+      "end": 2017
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/the-vampire-diaries---2009.mp3"
+  },
+  {
+    "name": "NCIS: Naval Criminal Investigative Service",
+    "years": {
+      "start": 2003,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/ncis%3A-naval-criminal-investigative-service---2003.mp3"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "years": {
+      "start": 1999,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/law-%26-order%3A-special-victims-unit---1999.mp3"
+  },
+  {
+    "name": "The Flight Attendant",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-flight-attendant---2020.mp3"
+  },
+  {
+    "name": "Dark",
+    "years": {
+      "start": 2017,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/dark---2017.mp3"
+  },
+  {
+    "name": "Bones",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/bones---2005.mp3"
+  },
+  {
+    "name": "Doctor Who",
+    "years": {
+      "start": 2005,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Family"],
+    "audioLocation": "/audio/tv/processed/doctor-who---2005.mp3"
+  },
+  {
+    "name": "The Expanse",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-expanse---2015.mp3"
+  },
+  {
+    "name": "Sherlock",
+    "years": {
+      "start": 2010,
+      "end": 2017
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/sherlock---2010.mp3"
+  },
+  {
+    "name": "Arrow",
+    "years": {
+      "start": 2012,
+      "end": 2020
+    },
+    "genres": ["Action", "Adventure", "Crime"],
+    "audioLocation": "/audio/tv/processed/arrow---2012.mp3"
+  },
+  {
+    "name": "Midsomer Murders",
+    "years": {
+      "start": 1997,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/midsomer-murders---1997.mp3"
+  },
+  {
+    "name": "Lost",
+    "years": {
+      "start": 2004,
+      "end": 2010
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/lost---2004.mp3"
+  },
+  {
+    "name": "Designated Survivor",
+    "years": {
+      "start": 2016,
+      "end": 2019
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/designated-survivor---2016.mp3"
+  },
+  {
+    "name": "Homeland",
+    "years": {
+      "start": 2011,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/homeland---2011.mp3"
+  },
+  {
+    "name": "Prison Break",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/prison-break---2005.mp3"
+  },
+  {
+    "name": "True Detective",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/true-detective---2014.mp3"
+  },
+  {
+    "name": "Monsterland",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/monsterland---2020.mp3"
+  },
+  {
+    "name": "How to Get Away with Murder",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/how-to-get-away-with-murder---2014.mp3"
+  },
+  {
+    "name": "The X Files",
+    "years": {
+      "start": 1993,
+      "end": 2018
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-x-files---1993.mp3"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "years": {
+      "start": 2005,
+      "end": 2008
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/avatar%3A-the-last-airbender---2005.mp3"
+  },
+  {
+    "name": "Psych",
+    "years": {
+      "start": 2006,
+      "end": 2014
+    },
+    "genres": ["Comedy", "Crime", "Mystery"],
+    "audioLocation": "/audio/tv/processed/psych---2006.mp3"
+  },
+  {
+    "name": "Doom Patrol",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/doom-patrol---2019.mp3"
+  },
+  {
+    "name": "Death in Paradise",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/death-in-paradise---2011.mp3"
+  },
+  {
+    "name": "Monk",
+    "years": {
+      "start": 2002,
+      "end": 2009
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/monk---2002.mp3"
+  },
+  {
+    "name": "Castle",
+    "years": {
+      "start": 2009,
+      "end": 2016
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/castle---2009.mp3"
+  },
+  {
+    "name": "Desperate Housewives",
+    "years": {
+      "start": 2004,
+      "end": 2012
+    },
+    "genres": ["Comedy", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/desperate-housewives---2004.mp3"
+  },
+  {
+    "name": "New Tricks",
+    "years": {
+      "start": 2003,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/new-tricks---2003.mp3"
+  },
+  {
+    "name": "White Collar",
+    "years": {
+      "start": 2009,
+      "end": 2014
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/white-collar---2009.mp3"
+  },
+  {
+    "name": "Fargo",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/fargo---2014.mp3"
+  },
+  {
+    "name": "Mirzapur",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/mirzapur---2018.mp3"
+  },
+  {
+    "name": "Ratched",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/ratched---2020.mp3"
+  },
+  {
+    "name": "Lovecraft Country",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/lovecraft-country---2020.mp3"
+  },
+  {
+    "name": "Supernatural",
+    "years": {
+      "start": 2005,
+      "end": 2020
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/supernatural---2005.mp3"
+  },
+  {
+    "name": "La Révolution",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/la-r%C3%A9volution---2020.mp3"
+  },
+  {
+    "name": "Dexter",
+    "years": {
+      "start": 2006,
+      "end": 2021
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/dexter---2006.mp3"
+  },
+  {
+    "name": "Raised by Wolves",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/raised-by-wolves---2020.mp3"
+  },
+  {
+    "name": "Stranger Things",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/stranger-things---2016.mp3"
+  },
+  {
+    "name": "American Horror Story",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Thriller"],
+    "audioLocation": "/audio/tv/processed/american-horror-story---2011.mp3"
+  },
+  {
+    "name": "Epidemiya",
+    "years": {
+      "start": null,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "audioLocation": "/audio/tv/processed/epidemiya---null.mp3"
+  },
+  {
+    "name": "Evil",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Horror"],
+    "audioLocation": "/audio/tv/processed/evil---2019.mp3"
+  },
+  {
+    "name": "Breaking Bad",
+    "years": {
+      "start": 2008,
+      "end": 2013
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/breaking-bad---2008.mp3"
+  },
+  {
+    "name": "The Blacklist",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-blacklist---2013.mp3"
+  },
+  {
+    "name": "Criminal Minds",
+    "years": {
+      "start": 2005,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/criminal-minds---2005.mp3"
+  },
+  {
+    "name": "Fear the Walking Dead",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Drama", "Horror", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/fear-the-walking-dead---2015.mp3"
+  },
+  {
+    "name": "Utopia",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/utopia---2020.mp3"
+  },
+  {
+    "name": "The Stand",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/the-stand---2020.mp3"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "years": {
+      "start": 2009,
+      "end": 2017
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/the-vampire-diaries---2009.mp3"
+  },
+  {
+    "name": "NCIS: Naval Criminal Investigative Service",
+    "years": {
+      "start": 2003,
+      "end": null
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/ncis%3A-naval-criminal-investigative-service---2003.mp3"
+  },
+  {
+    "name": "Black Mirror",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "audioLocation": "/audio/tv/processed/black-mirror---2011.mp3"
+  },
+  {
+    "name": "Law & Order: Special Victims Unit",
+    "years": {
+      "start": 1999,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/law-%26-order%3A-special-victims-unit---1999.mp3"
+  },
+  {
+    "name": "Sons of Anarchy",
+    "years": {
+      "start": 2008,
+      "end": 2014
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/sons-of-anarchy---2008.mp3"
+  },
+  {
+    "name": "The Flight Attendant",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-flight-attendant---2020.mp3"
+  },
+  {
+    "name": "Dark",
+    "years": {
+      "start": 2017,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/dark---2017.mp3"
+  },
+  {
+    "name": "You",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Romance"],
+    "audioLocation": "/audio/tv/processed/you---2018.mp3"
+  },
+  {
+    "name": "The Undoing",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-undoing---2020.mp3"
+  },
+  {
+    "name": "The Handmaid's Tale",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Drama", "Sci-Fi", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-handmaid's-tale---2017.mp3"
+  },
+  {
+    "name": "The Expanse",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Drama", "Mystery", "Sci-Fi"],
+    "audioLocation": "/audio/tv/processed/the-expanse---2015.mp3"
+  },
+  {
+    "name": "Sherlock",
+    "years": {
+      "start": 2010,
+      "end": 2017
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/sherlock---2010.mp3"
+  },
+  {
+    "name": "Lost",
+    "years": {
+      "start": 2004,
+      "end": 2010
+    },
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/lost---2004.mp3"
+  },
+  {
+    "name": "Designated Survivor",
+    "years": {
+      "start": 2016,
+      "end": 2019
+    },
+    "genres": ["Action", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/designated-survivor---2016.mp3"
+  },
+  {
+    "name": "Homeland",
+    "years": {
+      "start": 2011,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/homeland---2011.mp3"
+  },
+  {
+    "name": "The Wire",
+    "years": {
+      "start": 2002,
+      "end": 2008
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-wire---2002.mp3"
+  },
+  {
+    "name": "Prison Break",
+    "years": {
+      "start": 2005,
+      "end": 2017
+    },
+    "genres": ["Action", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/prison-break---2005.mp3"
+  },
+  {
+    "name": "Tehran",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/tehran---2020.mp3"
+  },
+  {
+    "name": "True Detective",
+    "years": {
+      "start": 2014,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/true-detective---2014.mp3"
+  },
+  {
+    "name": "Mindhunter",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/mindhunter---2017.mp3"
+  },
+  {
+    "name": "The Fall",
+    "years": {
+      "start": null,
+      "end": 2016
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/the-fall---null.mp3"
+  },
+  {
+    "name": "Monsterland",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Drama", "Fantasy", "Horror"],
+    "audioLocation": "/audio/tv/processed/monsterland---2020.mp3"
+  },
+  {
+    "name": "Mr. Robot",
+    "years": {
+      "start": 2015,
+      "end": 2019
+    },
+    "genres": ["Crime", "Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/mr.-robot---2015.mp3"
+  },
+  {
+    "name": "How to Get Away with Murder",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/how-to-get-away-with-murder---2014.mp3"
+  },
+  {
+    "name": "Riviera",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Drama", "Thriller"],
+    "audioLocation": "/audio/tv/processed/riviera---2017.mp3"
+  },
+  {
+    "name": "The X Files",
+    "years": {
+      "start": 1993,
+      "end": 2018
+    },
+    "genres": ["Crime", "Drama", "Mystery"],
+    "audioLocation": "/audio/tv/processed/the-x-files---1993.mp3"
+  },
+  {
+    "name": "Death in Paradise",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/death-in-paradise---2011.mp3"
+  },
+  {
+    "name": "L.A.'s Finest",
+    "years": {
+      "start": 2019,
+      "end": 2020
+    },
+    "genres": ["Action", "Comedy", "Crime"],
+    "audioLocation": "/audio/tv/processed/l.a.'s-finest---2019.mp3"
+  },
+  {
+    "name": "New Tricks",
+    "years": {
+      "start": 2003,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Crime", "Drama"],
+    "audioLocation": "/audio/tv/processed/new-tricks---2003.mp3"
+  },
+  {
+    "name": "Julie and the Phantoms",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Comedy", "Family", "Fantasy"],
+    "audioLocation": "/audio/tv/processed/julie-and-the-phantoms---2020.mp3"
+  },
+  {
+    "name": "Glee",
+    "years": {
+      "start": 2009,
+      "end": 2015
+    },
+    "genres": ["Comedy", "Drama", "Music"],
+    "audioLocation": "/audio/tv/processed/glee---2009.mp3"
+  },
+  {
+    "name": "Animaniacs",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/animaniacs---2020.mp3"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "years": {
+      "start": 2007,
+      "end": 2015
+    },
+    "genres": ["Animation", "Action", "Comedy"],
+    "audioLocation": "/audio/tv/processed/phineas-and-ferb---2007.mp3"
+  },
+  {
+    "name": "Animaniacs",
+    "years": {
+      "start": 1993,
+      "end": 1998
+    },
+    "genres": ["Animation", "Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/animaniacs---1993.mp3"
+  },
+  {
+    "name": "Steven Universe",
+    "years": {
+      "start": 2013,
+      "end": 2020
+    },
+    "genres": ["Animation", "Short", "Adventure"],
+    "audioLocation": "/audio/tv/processed/steven-universe---2013.mp3"
+  },
+  {
+    "name": "The Simpsons",
+    "years": {
+      "start": 1989,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy"],
+    "audioLocation": "/audio/tv/processed/the-simpsons---1989.mp3"
+  },
+  {
+    "name": "South Park",
+    "years": {
+      "start": 1997,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy"],
+    "audioLocation": "/audio/tv/processed/south-park---1997.mp3"
+  },
+  {
+    "name": "Archer",
+    "years": {
+      "start": 2009,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Comedy"],
+    "audioLocation": "/audio/tv/processed/archer---2009.mp3"
+  },
+  {
+    "name": "Family Guy",
+    "years": {
+      "start": 1999,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy"],
+    "audioLocation": "/audio/tv/processed/family-guy---1999.mp3"
+  },
+  {
+    "name": "Rick and Morty",
+    "years": {
+      "start": 2013,
+      "end": null
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/rick-and-morty---2013.mp3"
+  },
+  {
+    "name": "Avatar: The Last Airbender",
+    "years": {
+      "start": 2005,
+      "end": 2008
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/avatar%3A-the-last-airbender---2005.mp3"
+  },
+  {
+    "name": "Bob's Burgers",
+    "years": {
+      "start": 2011,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy"],
+    "audioLocation": "/audio/tv/processed/bob's-burgers---2011.mp3"
+  },
+  {
+    "name": "BoJack Horseman",
+    "years": {
+      "start": 2014,
+      "end": 2020
+    },
+    "genres": ["Animation", "Comedy", "Drama"],
+    "audioLocation": "/audio/tv/processed/bojack-horseman---2014.mp3"
+  },
+  {
+    "name": "The Legend of Korra",
+    "years": {
+      "start": 2012,
+      "end": 2014
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/the-legend-of-korra---2012.mp3"
+  },
+  {
+    "name": "My Hero Academia",
+    "years": {
+      "start": 2016,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/my-hero-academia---2016.mp3"
+  },
+  {
+    "name": "Star Trek: Lower Decks",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/star-trek%3A-lower-decks---2020.mp3"
+  },
+  {
+    "name": "DuckTales",
+    "years": {
+      "start": 2017,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/ducktales---2017.mp3"
+  },
+  {
+    "name": "Star Wars: Rebels",
+    "years": {
+      "start": 2014,
+      "end": 2018
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/star-wars%3A-rebels---2014.mp3"
+  },
+  {
+    "name": "SpongeBob SquarePants",
+    "years": {
+      "start": 1999,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/spongebob-squarepants---1999.mp3"
+  },
+  {
+    "name": "Gravity Falls",
+    "years": {
+      "start": 2012,
+      "end": 2016
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/gravity-falls---2012.mp3"
+  },
+  {
+    "name": "Animaniacs",
+    "years": {
+      "start": 2020,
+      "end": null
+    },
+    "genres": ["Animation", "Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/animaniacs---2020.mp3"
+  },
+  {
+    "name": "Peppa Pig",
+    "years": {
+      "start": 2004,
+      "end": null
+    },
+    "genres": ["Animation", "Family"],
+    "audioLocation": "/audio/tv/processed/peppa-pig---2004.mp3"
+  },
+  {
+    "name": "Adventure Time",
+    "years": {
+      "start": 2010,
+      "end": 2018
+    },
+    "genres": ["Animation", "Short", "Action"],
+    "audioLocation": "/audio/tv/processed/adventure-time---2010.mp3"
+  },
+  {
+    "name": "Batman: The Animated Series",
+    "years": {
+      "start": 1992,
+      "end": 1995
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/batman%3A-the-animated-series---1992.mp3"
+  },
+  {
+    "name": "Phineas and Ferb",
+    "years": {
+      "start": 2007,
+      "end": 2015
+    },
+    "genres": ["Animation", "Action", "Comedy"],
+    "audioLocation": "/audio/tv/processed/phineas-and-ferb---2007.mp3"
+  },
+  {
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "years": {
+      "start": 2015,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/miraculous%3A-tales-of-ladybug-%26-cat-noir---2015.mp3"
+  },
+  {
+    "name": "Animaniacs",
+    "years": {
+      "start": 1993,
+      "end": 1998
+    },
+    "genres": ["Animation", "Comedy", "Family"],
+    "audioLocation": "/audio/tv/processed/animaniacs---1993.mp3"
+  },
+  {
+    "name": "She-Ra and the Princesses of Power",
+    "years": {
+      "start": 2018,
+      "end": 2020
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/she-ra-and-the-princesses-of-power---2018.mp3"
+  },
+  {
+    "name": "The Last Kids on Earth",
+    "years": {
+      "start": 2019,
+      "end": null
+    },
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "audioLocation": "/audio/tv/processed/the-last-kids-on-earth---2019.mp3"
+  },
+  {
+    "name": "Steven Universe",
+    "years": {
+      "start": 2013,
+      "end": 2020
+    },
+    "genres": ["Animation", "Short", "Adventure"],
+    "audioLocation": "/audio/tv/processed/steven-universe---2013.mp3"
+  },
+  {
+    "name": "The Dragon Prince",
+    "years": {
+      "start": 2018,
+      "end": null
+    },
+    "genres": ["Animation", "Adventure", "Drama"],
+    "audioLocation": "/audio/tv/processed/the-dragon-prince---2018.mp3"
+  },
+  {
+    "name": "Pokémon",
+    "years": {
+      "start": 1997,
+      "end": null
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/pok%C3%A9mon---1997.mp3"
+  },
+  {
+    "name": "Dragon Ball Super",
+    "years": {
+      "start": 2015,
+      "end": 2018
+    },
+    "genres": ["Animation", "Action", "Adventure"],
+    "audioLocation": "/audio/tv/processed/dragon-ball-super---2015.mp3"
+  }
+]

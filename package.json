@@ -15,7 +15,10 @@
     "script:tidy-game-data": "ts-node --project scripts/tsconfig.json scripts/tidyGameData.ts",
     "script:movie-data": "ts-node --project scripts/tsconfig.json scripts/getMovieData.ts",
     "script:movie-audio": "ts-node --project scripts/tsconfig.json scripts/getMovieAudio.ts",
-    "script:tidy-movie-data": "ts-node --project scripts/tsconfig.json scripts/tidyMovieData.ts"
+    "script:tidy-movie-data": "ts-node --project scripts/tsconfig.json scripts/tidyMovieData.ts",
+    "script:tv-data": "ts-node --project scripts/tsconfig.json scripts/getTvSeriesData.ts",
+    "script:tv-audio": "ts-node --project scripts/tsconfig.json scripts/getTvSeriesAudio.ts",
+    "script:tidy-tv-data": "ts-node --project scripts/tsconfig.json scripts/tidyTvSeriesData.ts"
   },
   "husky": {
     "hooks": {
