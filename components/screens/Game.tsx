@@ -25,13 +25,19 @@ export function shuffle(array: any[], rnd: () => number) {
   return array
 }
 
+const DEFAULT_COUNTDOWN = 20
+const DEFAULT_REVEAL_TIME = 5
+const SKIP_REVEAL_TIME = 3
+
 export default function Index({ trackInfo }: { trackInfo: any[] }) {
   const startTime = useRef(+new Date())
-  const countdown = useRef(25)
+  const countdown = useRef(DEFAULT_COUNTDOWN)
   const gameState = useRef({
     idx: 0,
     phase: 'guessing',
   })
+  const revealRef = useRef<NodeJS.Timeout>()
+  const nextRef = useRef<NodeJS.Timeout>()
   const [idxState, setIdxState] = useState(gameState.current.idx)
   const [volume, setVolume] = useState(0.1)
   const sound = useRef(
@@ -39,7 +45,7 @@ export default function Index({ trackInfo }: { trackInfo: any[] }) {
       src: [trackInfo[gameState.current.idx].audioLocation],
       onplay: () => {
         startTime.current = +new Date()
-        countdown.current = 25
+        countdown.current = DEFAULT_COUNTDOWN
       },
       onloaderror: () => {
         const nextIdx = gameState.current.idx + 1
@@ -59,7 +65,7 @@ export default function Index({ trackInfo }: { trackInfo: any[] }) {
       src: [trackInfo[gameState.current.idx].audioLocation],
       onplay: () => {
         startTime.current = +new Date()
-        countdown.current = 25
+        countdown.current = DEFAULT_COUNTDOWN
       },
       onloaderror: () => {
         const nextIdx = gameState.current.idx + 1
@@ -69,19 +75,19 @@ export default function Index({ trackInfo }: { trackInfo: any[] }) {
       },
     })
     sound.current.play()
-    const revealTime = setTimeout(() => {
+    revealRef.current = setTimeout(() => {
       gameState.current = { ...gameState.current, phase: 'reveal' }
-      sound.current.fade(1, 0, 5000)
-    }, 25000)
-    const nextTime = setTimeout(() => {
+      sound.current.fade(1, 0, DEFAULT_REVEAL_TIME * 1000)
+    }, DEFAULT_COUNTDOWN * 1000)
+    nextRef.current = setTimeout(() => {
       const nextIdx = gameState.current.idx + 1
       gameState.current = { phase: 'guessing', idx: trackInfo.length <= nextIdx ? 0 : nextIdx }
       sound.current.stop()
       setIdxState(gameState.current.idx)
-    }, 30000)
+    }, (DEFAULT_COUNTDOWN + DEFAULT_REVEAL_TIME) * 1000)
     return () => {
-      clearTimeout(revealTime)
-      clearTimeout(nextTime)
+      if (revealRef.current) clearTimeout(revealRef.current)
+      if (nextRef.current) clearTimeout(nextRef.current)
     }
   }, [idxState, trackInfo])
 
@@ -120,7 +126,7 @@ export default function Index({ trackInfo }: { trackInfo: any[] }) {
       ctx.font = `${Math.min(canvas.clientWidth / 5, canvas.clientHeight / 5)}px PressStart`
       ctx.fillStyle = colors[0]
       ctx.textAlign = 'center'
-      countdown.current = Math.max(25 - Math.floor((+new Date() - startTime.current) / 1000), 0)
+      countdown.current = Math.max(DEFAULT_COUNTDOWN - Math.floor((+new Date() - startTime.current) / 1000), 0)
       ctx.fillText(
         `${gameState.current.phase === 'guessing' ? countdown.current : trackInfo[gameState.current.idx].name}`,
         canvas.clientWidth / 2,
@@ -212,15 +218,31 @@ export default function Index({ trackInfo }: { trackInfo: any[] }) {
       </style>
       <canvas
         ref={(ref) => (canvasRef.current = ref!)}
-        style={{ position: 'absolute', top: 0, left: 0, zIndex: -99, pointerEvents: 'none' }}
+        onClick={() => {
+          if (gameState.current.phase === 'reveal') return
+          if (revealRef.current) clearTimeout(revealRef.current)
+          if (nextRef.current) clearTimeout(nextRef.current)
+          gameState.current = { ...gameState.current, phase: 'reveal' }
+          sound.current.fade(1, 0, SKIP_REVEAL_TIME * 1000)
+          nextRef.current = setTimeout(() => {
+            const nextIdx = gameState.current.idx + 1
+            gameState.current = { phase: 'guessing', idx: trackInfo.length <= nextIdx ? 0 : nextIdx }
+            sound.current.stop()
+            setIdxState(gameState.current.idx)
+          }, SKIP_REVEAL_TIME * 1000)
+        }}
+        style={{ position: 'absolute', top: 0, left: 0 }}
       />
       <Link href="/">
         <a>
-          <h1 className={styles.title}>Bopsy</h1>
+          <h1 className={styles.title} style={{ marginBottom: '0.025em' }}>
+            Bopsy
+          </h1>
         </a>
       </Link>
-      <div style={{ textAlign: 'center' }}>
-        <div style={{ marginBottom: '0.5em' }}>Volume</div>
+      <div style={{ textAlign: 'center', position: 'absolute', left: '50%', transform: 'translateX(-50%)' }}>
+        <div style={{ marginBottom: '0.25em', pointerEvents: 'none' }}>Tap to Skip</div>
+        <div style={{ marginBottom: '0.1em' }}>Volume</div>
         <input
           type="range"
           value={volume}
