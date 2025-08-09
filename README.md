@@ -1,14 +1,17 @@
-# Next Template
+# Bopsy
 
-A simple repo to act as a template for a Next.js project.
+A music guessing game.
 
-Includes:
+For running, you need to set the `--openssl-legacy-provider` flag in NODE_OPTIONS.
 
-- Next.js
-- TypeScript
-- Prettier
-- Eslint
-- Prettier + Eslint on commit
-- Fathom Analytics hook
-- next-seo
-- Sane CSS reset/starting point
+Windows:
+
+```sh
+set NODE_OPTIONS=--openssl-legacy-provider
+```
+
+Linux:
+
+```sh
+export NODE_OPTIONS=--openssl-legacy-provider
+```
